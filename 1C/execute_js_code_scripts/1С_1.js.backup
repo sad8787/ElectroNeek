@@ -1,0 +1,3 @@
+let value = Excel_baza["List1"][Numb]["A"]
+let valueSplit = value.split(' ');
+let Product = valueSplit[1]

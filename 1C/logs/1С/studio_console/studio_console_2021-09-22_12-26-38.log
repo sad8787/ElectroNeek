@@ -1,0 +1,74 @@
+
+  ==========================================
+  Studio Pro version: 6.0.25
+  Started at: 22/9/2021 12:26:55
+  ==========================================
+  
+
+[2021-09-22T09:27:33.572Z] : [success]: Robot saved successfully
+
+[2021-09-22T09:27:33.628Z] : [info]: ---------------------------------------------
+
+[2021-09-22T09:27:33.629Z] : [success]: Bot started
+
+[2021-09-22T09:27:33.630Z] : [info]: Robot start
+
+[2021-09-22T09:27:55.988Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2021-09-22T09:27:55.994Z] : [error]: Total execution time: 22s 358ms
+
+[2021-09-22T09:27:55.996Z] : [info]: ---------------------------------------------
+
+[2021-09-22T09:39:42.195Z] : [success]: Robot saved successfully
+
+[2021-09-22T09:39:42.265Z] : [success]: Bot started
+
+[2021-09-22T09:39:42.267Z] : [info]: Robot start
+
+[2021-09-22T09:39:48.206Z] : [error]: element not interactable
+  (Session info: chrome=94.0.4606.54)
+
+[2021-09-22T09:39:48.209Z] : [error]: Total execution time: 5s 937ms
+
+[2021-09-22T09:39:48.211Z] : [info]: ---------------------------------------------
+
+[2021-09-22T09:40:38.553Z] : [success]: Robot saved successfully
+
+[2021-09-22T09:40:38.611Z] : [success]: Bot started
+
+[2021-09-22T09:40:38.613Z] : [info]: Robot start
+
+[2021-09-22T09:40:44.278Z] : [error]: element not interactable
+  (Session info: chrome=94.0.4606.54)
+
+[2021-09-22T09:40:44.289Z] : [error]: Total execution time: 5s 663ms
+
+[2021-09-22T09:40:44.292Z] : [info]: ---------------------------------------------
+
+[2021-09-22T09:41:19.611Z] : [success]: Robot saved successfully
+
+[2021-09-22T09:41:19.652Z] : [success]: Bot started
+
+[2021-09-22T09:41:19.652Z] : [info]: Robot start
+
+[2021-09-22T09:41:40.261Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2021-09-22T09:41:40.268Z] : [error]: Total execution time: 20s 609ms
+
+[2021-09-22T09:41:40.270Z] : [info]: ---------------------------------------------
+
+[2021-09-22T09:43:10.258Z] : [success]: Robot saved successfully
+
+[2021-09-22T09:43:10.313Z] : [success]: Bot started
+
+[2021-09-22T09:43:10.315Z] : [info]: Robot start
+
+[2021-09-22T09:43:34.219Z] : [error]: Waiting for at least one element to be located By(css selector, .select .eddText)
+Wait timed out after 15199ms
+
+[2021-09-22T09:43:34.221Z] : [error]: Total execution time: 23s 904ms
+
+[2021-09-22T09:43:34.223Z] : [info]: ---------------------------------------------
+
+[2021-09-22T09:44:29.330Z] : [success]: Robot saved successfully
+

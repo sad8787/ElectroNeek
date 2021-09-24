@@ -1,0 +1,459 @@
+
+  ==========================================
+  Studio Pro version: 6.0.25
+  Started at: 20/9/2021 22:49:03
+  ==========================================
+  
+
+[2021-09-20T19:51:12.770Z] : [success]: Robot saved successfully
+
+[2021-09-20T19:51:12.956Z] : [error]: Activity parameters required: Click on element
+
+[2021-09-20T19:51:12.961Z] : [info]: ---------------------------------------------
+
+[2021-09-20T19:51:50.199Z] : [success]: Robot saved successfully
+
+[2021-09-20T19:51:50.263Z] : [info]: ---------------------------------------------
+
+[2021-09-20T19:51:50.264Z] : [success]: Bot started
+
+[2021-09-20T19:51:50.266Z] : [info]: Robot start
+
+[2021-09-20T19:52:04.149Z] : [success]: Bot finished successfully, total execution time: 13s 881ms
+
+[2021-09-20T19:52:04.161Z] : [info]: ---------------------------------------------
+
+[2021-09-20T19:54:27.365Z] : [success]: Robot saved successfully
+
+[2021-09-20T19:54:27.406Z] : [success]: Bot started
+
+[2021-09-20T19:54:27.407Z] : [info]: Robot start
+
+[2021-09-20T19:54:41.147Z] : [success]: Bot finished successfully, total execution time: 13s 738ms
+
+[2021-09-20T19:54:41.149Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:05:52.625Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:05:52.676Z] : [success]: Bot started
+
+[2021-09-20T20:05:52.678Z] : [info]: Robot start
+
+[2021-09-20T20:06:08.164Z] : [success]: Bot finished successfully, total execution time: 15s 484ms
+
+[2021-09-20T20:06:08.166Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:08:43.621Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:08:43.668Z] : [success]: Bot started
+
+[2021-09-20T20:08:43.669Z] : [info]: Robot start
+
+[2021-09-20T20:08:57.184Z] : [error]: Unable to interact with the element because the specified tab is not opened
+
+[2021-09-20T20:08:57.189Z] : [error]: Total execution time: 13s 514ms
+
+[2021-09-20T20:08:57.190Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:11:32.074Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:11:32.130Z] : [success]: Bot started
+
+[2021-09-20T20:11:32.130Z] : [info]: Robot start
+
+[2021-09-20T20:11:52.187Z] : [success]: Bot finished successfully, total execution time: 20s 54ms
+
+[2021-09-20T20:11:52.188Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:14:30.265Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:14:30.283Z] : [success]: Bot started
+
+[2021-09-20T20:14:30.285Z] : [info]: Robot start
+
+[2021-09-20T20:14:44.157Z] : [success]: Bot finished successfully, total execution time: 13s 870ms
+
+[2021-09-20T20:14:44.160Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:19:16.969Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:19:17.004Z] : [success]: Bot started
+
+[2021-09-20T20:19:17.005Z] : [info]: Robot start
+
+[2021-09-20T20:19:42.175Z] : [error]: Waiting for at least one element to be located By(css selector, .supernova-navi_dashboard a[data-qa="login"])
+Wait timed out after 15123ms
+
+[2021-09-20T20:19:42.179Z] : [error]: Total execution time: 25s 169ms
+
+[2021-09-20T20:19:42.181Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:19:51.086Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:19:51.111Z] : [success]: Bot started
+
+[2021-09-20T20:19:51.112Z] : [info]: Robot start
+
+[2021-09-20T20:20:05.188Z] : [success]: Bot finished successfully, total execution time: 14s 38ms
+
+[2021-09-20T20:20:05.190Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:21:29.645Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:21:29.671Z] : [success]: Bot started
+
+[2021-09-20T20:21:29.672Z] : [info]: Robot start
+
+[2021-09-20T20:21:41.137Z] : [success]: Bot finished successfully, total execution time: 11s 462ms
+
+[2021-09-20T20:21:41.139Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:26:47.743Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:26:47.781Z] : [success]: Bot started
+
+[2021-09-20T20:26:47.782Z] : [info]: Robot start
+
+[2021-09-20T20:27:13.175Z] : [success]: Bot finished successfully, total execution time: 25s 390ms
+
+[2021-09-20T20:27:13.177Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:31:27.257Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:31:27.310Z] : [success]: Bot started
+
+[2021-09-20T20:31:27.311Z] : [info]: Robot start
+
+[2021-09-20T20:31:45.173Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2021-09-20T20:31:45.177Z] : [error]: Total execution time: 17s 861ms
+
+[2021-09-20T20:31:45.178Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:31:58.394Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:31:58.425Z] : [success]: Bot started
+
+[2021-09-20T20:31:58.426Z] : [info]: Robot start
+
+[2021-09-20T20:32:05.267Z] : [success]: Bot finished successfully, total execution time: 6s 834ms
+
+[2021-09-20T20:32:05.270Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:37:13.884Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:37:13.913Z] : [success]: Bot started
+
+[2021-09-20T20:37:13.914Z] : [info]: Robot start
+
+[2021-09-20T20:37:19.170Z] : [success]: Bot finished successfully, total execution time: 5s 253ms
+
+[2021-09-20T20:37:19.172Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:38:47.570Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:38:47.593Z] : [success]: Bot started
+
+[2021-09-20T20:38:47.594Z] : [info]: Robot start
+
+[2021-09-20T20:38:51.151Z] : [success]: Bot finished successfully, total execution time: 3s 554ms
+
+[2021-09-20T20:38:51.153Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:41:33.455Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:41:33.475Z] : [success]: Bot started
+
+[2021-09-20T20:41:33.476Z] : [info]: Robot start
+
+[2021-09-20T20:41:38.133Z] : [success]: Bot finished successfully, total execution time: 4s 654ms
+
+[2021-09-20T20:41:38.135Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:43:56.144Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:43:56.183Z] : [success]: Bot started
+
+[2021-09-20T20:43:56.184Z] : [info]: Robot start
+
+[2021-09-20T20:44:14.915Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2021-09-20T20:44:14.918Z] : [error]: Total execution time: 18s 729ms
+
+[2021-09-20T20:44:14.920Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:44:18.918Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:44:18.949Z] : [success]: Bot started
+
+[2021-09-20T20:44:18.950Z] : [info]: Robot start
+
+[2021-09-20T20:44:40.124Z] : [error]: Waiting for at least one element to be located By(css selector, .supernova-icon_chatik)
+Wait timed out after 15102ms
+
+[2021-09-20T20:44:40.127Z] : [error]: Total execution time: 21s 173ms
+
+[2021-09-20T20:44:40.128Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:46:52.690Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:46:52.736Z] : [success]: Bot started
+
+[2021-09-20T20:46:52.738Z] : [info]: Robot start
+
+[2021-09-20T20:47:11.594Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2021-09-20T20:47:11.599Z] : [error]: Total execution time: 18s 855ms
+
+[2021-09-20T20:47:11.600Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:47:13.641Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:47:13.669Z] : [success]: Bot started
+
+[2021-09-20T20:47:13.670Z] : [info]: Robot start
+
+[2021-09-20T20:47:17.189Z] : [success]: Bot finished successfully, total execution time: 3s 481ms
+
+[2021-09-20T20:47:17.190Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:47:38.970Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:47:38.998Z] : [success]: Bot started
+
+[2021-09-20T20:47:38.998Z] : [info]: Robot start
+
+[2021-09-20T20:47:43.149Z] : [success]: Bot finished successfully, total execution time: 4s 148ms
+
+[2021-09-20T20:47:43.152Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:48:01.146Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:48:01.174Z] : [success]: Bot started
+
+[2021-09-20T20:48:01.175Z] : [info]: Robot start
+
+[2021-09-20T20:48:05.233Z] : [success]: Bot finished successfully, total execution time: 4s 44ms
+
+[2021-09-20T20:48:05.234Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:49:51.158Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:49:51.180Z] : [success]: Bot started
+
+[2021-09-20T20:49:51.180Z] : [info]: Robot start
+
+[2021-09-20T20:50:10.239Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2021-09-20T20:50:10.244Z] : [error]: Total execution time: 19s 58ms
+
+[2021-09-20T20:50:10.245Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:50:12.348Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:50:12.374Z] : [success]: Bot started
+
+[2021-09-20T20:50:12.375Z] : [info]: Robot start
+
+[2021-09-20T20:50:16.120Z] : [success]: Bot finished successfully, total execution time: 3s 742ms
+
+[2021-09-20T20:50:16.121Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:50:52.778Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:50:52.797Z] : [success]: Bot started
+
+[2021-09-20T20:50:52.798Z] : [info]: Robot start
+
+[2021-09-20T20:50:57.524Z] : [success]: Bot finished successfully, total execution time: 4s 724ms
+
+[2021-09-20T20:50:57.527Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:57:40.900Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:57:40.936Z] : [success]: Bot started
+
+[2021-09-20T20:57:40.937Z] : [info]: Robot start
+
+[2021-09-20T20:57:59.440Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2021-09-20T20:57:59.444Z] : [error]: Total execution time: 18s 503ms
+
+[2021-09-20T20:57:59.446Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:58:01.225Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:58:01.251Z] : [success]: Bot started
+
+[2021-09-20T20:58:01.252Z] : [info]: Robot start
+
+[2021-09-20T20:58:07.179Z] : [error]: Selectors: Nothing found
+
+[2021-09-20T20:58:07.187Z] : [error]: Total execution time: 5s 927ms
+
+[2021-09-20T20:58:07.189Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:58:21.134Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:58:21.150Z] : [success]: Bot started
+
+[2021-09-20T20:58:21.151Z] : [info]: Robot start
+
+[2021-09-20T20:58:25.146Z] : [error]: Selectors: Nothing found
+
+[2021-09-20T20:58:25.155Z] : [error]: Total execution time: 3s 994ms
+
+[2021-09-20T20:58:25.156Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:58:49.632Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:58:49.741Z] : [success]: Bot started
+
+[2021-09-20T20:58:49.741Z] : [info]: Robot start
+
+[2021-09-20T20:58:54.149Z] : [error]: Selectors: Nothing found
+
+[2021-09-20T20:58:54.153Z] : [error]: Total execution time: 4s 408ms
+
+[2021-09-20T20:58:54.154Z] : [info]: ---------------------------------------------
+
+[2021-09-20T20:59:22.729Z] : [success]: Robot saved successfully
+
+[2021-09-20T20:59:22.753Z] : [success]: Bot started
+
+[2021-09-20T20:59:22.754Z] : [info]: Robot start
+
+[2021-09-20T20:59:28.179Z] : [error]: Selectors: Nothing found
+
+[2021-09-20T20:59:28.184Z] : [error]: Total execution time: 5s 425ms
+
+[2021-09-20T20:59:28.186Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:01:31.464Z] : [success]: Robot saved successfully
+
+[2021-09-20T21:01:31.504Z] : [success]: Bot started
+
+[2021-09-20T21:01:31.505Z] : [info]: Robot start
+
+[2021-09-20T21:01:49.239Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2021-09-20T21:01:49.242Z] : [error]: Total execution time: 17s 733ms
+
+[2021-09-20T21:01:49.244Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:01:51.043Z] : [success]: Robot saved successfully
+
+[2021-09-20T21:01:51.065Z] : [success]: Bot started
+
+[2021-09-20T21:01:51.066Z] : [info]: Robot start
+
+[2021-09-20T21:02:11.125Z] : [error]: Waiting for at least one element to be located By(css selector, .supernova-icon_chatik)
+Wait timed out after 15006ms
+
+[2021-09-20T21:02:11.128Z] : [error]: Total execution time: 20s 59ms
+
+[2021-09-20T21:02:11.130Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:02:19.476Z] : [success]: Robot saved successfully
+
+[2021-09-20T21:02:19.497Z] : [success]: Bot started
+
+[2021-09-20T21:02:19.497Z] : [info]: Robot start
+
+[2021-09-20T21:02:37.198Z] : [error]: chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+
+[2021-09-20T21:02:37.201Z] : [error]: Total execution time: 17s 701ms
+
+[2021-09-20T21:02:37.204Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:04:15.180Z] : [success]: Robot saved successfully
+
+[2021-09-20T21:04:15.211Z] : [success]: Bot started
+
+[2021-09-20T21:04:15.213Z] : [info]: Robot start
+
+[2021-09-20T21:04:40.222Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2021-09-20T21:04:40.227Z] : [error]: Total execution time: 25s 8ms
+
+[2021-09-20T21:04:40.229Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:07:45.230Z] : [success]: Robot saved successfully
+
+[2021-09-20T21:07:45.258Z] : [success]: Bot started
+
+[2021-09-20T21:07:45.259Z] : [info]: Robot start
+
+[2021-09-20T21:07:49.606Z] : [success]: Bot finished successfully, total execution time: 4s 342ms
+
+[2021-09-20T21:07:49.608Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:12:00.595Z] : [success]: Robot saved successfully
+
+[2021-09-20T21:12:00.631Z] : [success]: Bot started
+
+[2021-09-20T21:12:00.632Z] : [info]: Robot start
+
+[2021-09-20T21:12:04.153Z] : [success]: Bot finished successfully, total execution time: 3s 518ms
+
+[2021-09-20T21:12:04.156Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:13:05.881Z] : [success]: Robot saved successfully
+
+[2021-09-20T21:13:05.916Z] : [success]: Bot started
+
+[2021-09-20T21:13:05.917Z] : [info]: Robot start
+
+[2021-09-20T21:13:10.128Z] : [success]: Bot finished successfully, total execution time: 4s 209ms
+
+[2021-09-20T21:13:10.129Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:19:00.219Z] : [success]: Robot saved successfully
+
+[2021-09-20T21:19:00.289Z] : [success]: Bot started
+
+[2021-09-20T21:19:00.290Z] : [info]: Robot start
+
+[2021-09-20T21:19:18.395Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2021-09-20T21:19:18.403Z] : [error]: Total execution time: 18s 104ms
+
+[2021-09-20T21:19:18.405Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:19:20.599Z] : [success]: Robot saved successfully
+
+[2021-09-20T21:19:20.622Z] : [success]: Bot started
+
+[2021-09-20T21:19:20.625Z] : [info]: Robot start
+
+[2021-09-20T21:19:25.139Z] : [error]: Selectors: Nothing found
+
+[2021-09-20T21:19:25.142Z] : [error]: Total execution time: 4s 513ms
+
+[2021-09-20T21:19:25.144Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:20:34.843Z] : [success]: Robot saved successfully
+
+[2021-09-20T21:20:34.867Z] : [success]: Bot started
+
+[2021-09-20T21:20:34.868Z] : [info]: Robot start
+
+[2021-09-20T21:20:48.165Z] : [success]: Bot finished successfully, total execution time: 13s 295ms
+
+[2021-09-20T21:20:48.168Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:21:44.902Z] : [success]: Robot saved successfully
+
+[2021-09-20T21:21:44.925Z] : [success]: Bot started
+
+[2021-09-20T21:21:44.926Z] : [info]: Robot start
+
+[2021-09-20T21:22:13.166Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2021-09-20T21:22:13.171Z] : [error]: Total execution time: 28s 239ms
+
+[2021-09-20T21:22:13.172Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:24:23.471Z] : [success]: Robot saved successfully
+

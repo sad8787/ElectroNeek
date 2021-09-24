@@ -1,0 +1,137 @@
+
+  ==========================================
+  Studio Pro version: 6.0.25
+  Started at: 22/9/2021 11:26:20
+  ==========================================
+  
+
+[2021-09-22T08:26:50.101Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:26:50.102Z] : [success]: Bot started
+
+[2021-09-22T08:26:50.103Z] : [info]: Robot start
+
+[2021-09-22T08:27:09.434Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2021-09-22T08:27:09.438Z] : [error]: Total execution time: 19s 331ms
+
+[2021-09-22T08:27:09.447Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:27:13.749Z] : [success]: Bot started
+
+[2021-09-22T08:27:13.750Z] : [info]: Robot start
+
+[2021-09-22T08:27:18.260Z] : [success]: Bot finished successfully, total execution time: 4s 459ms
+
+[2021-09-22T08:27:18.262Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:27:43.984Z] : [success]: Bot started
+
+[2021-09-22T08:27:43.985Z] : [info]: Robot start
+
+[2021-09-22T08:27:48.224Z] : [success]: Bot finished successfully, total execution time: 4s 234ms
+
+[2021-09-22T08:27:48.225Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:35:31.229Z] : [info]: Internet connection // error
+
+[2021-09-22T08:35:31.284Z] : [success]: Bot started
+
+[2021-09-22T08:35:31.285Z] : [info]: Robot start
+
+[2021-09-22T08:35:37.228Z] : [error]: Selectors: Nothing found
+
+[2021-09-22T08:35:37.229Z] : [error]: Total execution time: 5s 942ms
+
+[2021-09-22T08:35:37.230Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:35:52.012Z] : [success]: Connection to our licenses server is restored
+
+[2021-09-22T08:35:56.745Z] : [info]: Internet connection // error
+
+[2021-09-22T08:35:56.831Z] : [success]: Bot started
+
+[2021-09-22T08:35:56.831Z] : [info]: Robot start
+
+[2021-09-22T08:36:02.088Z] : [success]: Connection to our licenses server is restored
+
+[2021-09-22T08:36:02.194Z] : [error]: Selectors: Nothing found
+
+[2021-09-22T08:36:02.204Z] : [error]: Total execution time: 5s 363ms
+
+[2021-09-22T08:36:02.205Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:36:39.487Z] : [info]: Internet connection // error
+
+[2021-09-22T08:36:39.584Z] : [success]: Bot started
+
+[2021-09-22T08:36:39.585Z] : [info]: Robot start
+
+[2021-09-22T08:36:45.196Z] : [error]: Selectors: Nothing found
+
+[2021-09-22T08:36:45.198Z] : [error]: Total execution time: 5s 610ms
+
+[2021-09-22T08:36:45.200Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:38:19.995Z] : [success]: Bot started
+
+[2021-09-22T08:38:19.996Z] : [info]: Robot start
+
+[2021-09-22T08:38:26.192Z] : [error]: Selectors: Nothing found
+
+[2021-09-22T08:38:26.193Z] : [error]: Total execution time: 6s 196ms
+
+[2021-09-22T08:38:26.194Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:39:50.570Z] : [success]: Connection to our licenses server is restored
+
+[2021-09-22T08:40:41.314Z] : [success]: Bot started
+
+[2021-09-22T08:40:41.315Z] : [info]: Robot start
+
+[2021-09-22T08:40:47.209Z] : [error]: Selectors: Nothing found
+
+[2021-09-22T08:40:47.213Z] : [error]: Total execution time: 5s 893ms
+
+[2021-09-22T08:40:47.215Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:42:11.688Z] : [info]: Internet connection // error
+
+[2021-09-22T08:42:11.747Z] : [success]: Bot started
+
+[2021-09-22T08:42:11.747Z] : [info]: Robot start
+
+[2021-09-22T08:42:26.206Z] : [error]: Selectors: Nothing found
+
+[2021-09-22T08:42:26.208Z] : [error]: Total execution time: 14s 459ms
+
+[2021-09-22T08:42:26.209Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:42:47.665Z] : [success]: Bot started
+
+[2021-09-22T08:42:47.666Z] : [info]: Robot start
+
+[2021-09-22T08:42:54.190Z] : [error]: Selectors: Nothing found
+
+[2021-09-22T08:42:54.191Z] : [error]: Total execution time: 6s 523ms
+
+[2021-09-22T08:42:54.193Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:43:16.617Z] : [success]: Bot started
+
+[2021-09-22T08:43:16.618Z] : [info]: Robot start
+
+[2021-09-22T08:43:48.106Z] : [success]: Connection to our licenses server is restored
+
+[2021-09-22T08:48:18.432Z] : [info]: Internet connection // error
+
+[2021-09-22T08:49:11.844Z] : [success]: Connection to our licenses server is restored
+
+[2021-09-22T09:07:19.403Z] : [error]: Selectors: Nothing found
+
+[2021-09-22T09:07:19.421Z] : [error]: Total execution time: 24m 2s 784ms
+
+[2021-09-22T09:07:19.423Z] : [info]: ---------------------------------------------
+
+[2021-09-22T09:24:30.490Z] : [success]: Robot saved successfully
+

@@ -1,0 +1,100 @@
+
+  ==========================================
+  Studio Pro version: 6.0.25
+  Started at: 22/9/2021 10:06:23
+  ==========================================
+  
+
+[2021-09-22T07:06:42.735Z] : [success]: Robot saved successfully
+
+[2021-09-22T07:06:42.775Z] : [info]: ---------------------------------------------
+
+[2021-09-22T07:06:42.776Z] : [success]: Bot started
+
+[2021-09-22T07:06:42.777Z] : [info]: Robot start
+
+[2021-09-22T07:06:57.798Z] : [success]: Bot finished successfully, total execution time: 15s 18ms
+
+[2021-09-22T07:06:57.800Z] : [info]: ---------------------------------------------
+
+[2021-09-22T07:08:23.936Z] : [success]: Robot saved successfully
+
+[2021-09-22T07:08:24.019Z] : [success]: Bot started
+
+[2021-09-22T07:08:24.021Z] : [info]: Robot start
+
+[2021-09-22T07:10:04.590Z] : [success]: Bot finished successfully, total execution time: 1m 40s 560ms
+
+[2021-09-22T07:10:04.594Z] : [info]: ---------------------------------------------
+
+[2021-09-22T07:13:48.998Z] : [success]: Robot saved successfully
+
+[2021-09-22T07:13:49.061Z] : [success]: Bot started
+
+[2021-09-22T07:13:49.062Z] : [info]: Robot start
+
+[2021-09-22T07:15:35.531Z] : [error]: Unable to interact with the element because the specified tab is not opened
+
+[2021-09-22T07:15:35.535Z] : [error]: Total execution time: 1m 46s 468ms
+
+[2021-09-22T07:15:35.536Z] : [info]: ---------------------------------------------
+
+[2021-09-22T07:19:22.109Z] : [warn]: There is a small amount of free memory (RAM) left, 91.73% of RAM is being used (5557 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2021-09-22T07:21:38.839Z] : [success]: Robot saved successfully
+
+[2021-09-22T07:21:38.878Z] : [success]: Bot started
+
+[2021-09-22T07:21:38.879Z] : [info]: Robot start
+
+[2021-09-22T07:22:55.058Z] : [success]: Bot finished successfully, total execution time: 1m 16s 176ms
+
+[2021-09-22T07:22:55.060Z] : [info]: ---------------------------------------------
+
+[2021-09-22T07:23:50.113Z] : [success]: Robot saved successfully
+
+[2021-09-22T07:23:50.145Z] : [success]: Bot started
+
+[2021-09-22T07:23:50.146Z] : [info]: Robot start
+
+[2021-09-22T07:24:43.084Z] : [error]: Waiting for at least one element to be located By(css selector, [data-qa="account-login-submit"])
+Wait timed out after 15163ms
+
+[2021-09-22T07:24:43.089Z] : [error]: Total execution time: 52s 936ms
+
+[2021-09-22T07:24:43.092Z] : [info]: ---------------------------------------------
+
+[2021-09-22T07:24:57.091Z] : [success]: Robot saved successfully
+
+[2021-09-22T07:24:57.117Z] : [success]: Bot started
+
+[2021-09-22T07:24:57.118Z] : [info]: Robot start
+
+[2021-09-22T07:26:17.770Z] : [success]: Bot finished successfully, total execution time: 1m 20s 647ms
+
+[2021-09-22T07:26:17.782Z] : [info]: ---------------------------------------------
+
+[2021-09-22T07:29:43.609Z] : [success]: Robot saved successfully
+
+[2021-09-22T07:29:43.635Z] : [success]: Bot started
+
+[2021-09-22T07:29:43.636Z] : [info]: Robot start
+
+[2021-09-22T07:30:49.452Z] : [success]: Bot finished successfully, total execution time: 1m 5s 814ms
+
+[2021-09-22T07:30:49.456Z] : [info]: ---------------------------------------------
+
+[2021-09-22T07:44:16.033Z] : [success]: Robot saved successfully
+
+[2021-09-22T07:44:16.081Z] : [success]: Bot started
+
+[2021-09-22T07:44:16.082Z] : [info]: Robot start
+
+[2021-09-22T07:45:44.583Z] : [error]: Selectors: Nothing found
+
+[2021-09-22T07:45:44.593Z] : [error]: Total execution time: 1m 28s 500ms
+
+[2021-09-22T07:45:44.595Z] : [info]: ---------------------------------------------
+
+[2021-09-22T07:49:51.031Z] : [success]: Robot saved successfully
+

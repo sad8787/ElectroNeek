@@ -1,0 +1,39 @@
+
+  ==========================================
+  Studio Pro version: 6.0.25
+  Started at: 22/9/2021 17:31:30
+  ==========================================
+  
+
+[2021-09-22T14:34:03.290Z] : [success]: Robot saved successfully
+
+[2021-09-22T14:34:03.345Z] : [info]: ---------------------------------------------
+
+[2021-09-22T14:34:03.346Z] : [success]: Bot started
+
+[2021-09-22T14:34:03.346Z] : [info]: Robot start
+
+[2021-09-22T14:34:17.910Z] : [success]: Bot finished successfully, total execution time: 14s 561ms
+
+[2021-09-22T14:34:17.913Z] : [info]: ---------------------------------------------
+
+[2021-09-22T14:34:37.315Z] : [success]: Robot saved successfully
+
+[2021-09-22T14:34:37.351Z] : [success]: Bot started
+
+[2021-09-22T14:34:37.352Z] : [info]: Robot start
+
+[2021-09-22T14:34:43.193Z] : [success]: Bot finished successfully, total execution time: 5s 828ms
+
+[2021-09-22T14:34:43.196Z] : [info]: ---------------------------------------------
+
+[2021-09-22T14:34:46.180Z] : [warn]: There is a small amount of free memory (RAM) left, 92.16% of RAM is being used (5583 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2021-09-22T14:37:16.172Z] : [warn]: There is a small amount of free memory (RAM) left, 91.1% of RAM is being used (5519 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2021-09-22T14:47:31.110Z] : [warn]: There is a small amount of free memory (RAM) left, 90.86% of RAM is being used (5504 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2021-09-22T14:50:42.488Z] : [info]: Internet connection // error
+
+[2021-09-22T14:50:57.022Z] : [success]: Connection to our licenses server is restored
+

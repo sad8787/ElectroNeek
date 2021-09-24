@@ -1,0 +1,59 @@
+
+  ==========================================
+  Studio Pro version: 6.0.25
+  Started at: 21/9/2021 0:26:12
+  ==========================================
+  
+
+[2021-09-20T21:29:59.474Z] : [success]: Robot saved successfully
+
+[2021-09-20T21:29:59.531Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:29:59.532Z] : [success]: Bot started
+
+[2021-09-20T21:29:59.532Z] : [info]: Robot start
+
+[2021-09-20T21:30:18.562Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2021-09-20T21:30:18.565Z] : [error]: Total execution time: 19s 29ms
+
+[2021-09-20T21:30:18.567Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:30:22.119Z] : [success]: Robot saved successfully
+
+[2021-09-20T21:30:22.158Z] : [success]: Bot started
+
+[2021-09-20T21:30:22.159Z] : [info]: Robot start
+
+[2021-09-20T21:30:26.155Z] : [error]: Selectors: Nothing found
+
+[2021-09-20T21:30:26.174Z] : [error]: Total execution time: 3s 996ms
+
+[2021-09-20T21:30:26.176Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:33:42.327Z] : [success]: Robot saved successfully
+
+[2021-09-20T21:33:42.359Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:33:42.360Z] : [success]: Bot started
+
+[2021-09-20T21:33:42.360Z] : [info]: Robot start
+
+[2021-09-20T21:34:01.221Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2021-09-20T21:34:01.227Z] : [error]: Total execution time: 18s 860ms
+
+[2021-09-20T21:34:01.228Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:34:03.560Z] : [success]: Robot saved successfully
+
+[2021-09-20T21:34:03.592Z] : [success]: Bot started
+
+[2021-09-20T21:34:03.592Z] : [info]: Robot start
+
+[2021-09-20T21:34:07.125Z] : [success]: Bot finished successfully, total execution time: 3s 529ms
+
+[2021-09-20T21:34:07.126Z] : [info]: ---------------------------------------------
+
+[2021-09-20T21:35:50.029Z] : [success]: Robot saved successfully
+

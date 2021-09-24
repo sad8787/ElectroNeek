@@ -1,0 +1,121 @@
+
+  ==========================================
+  Studio Pro version: 6.0.25
+  Started at: 22/9/2021 11:00:50
+  ==========================================
+  
+
+[2021-09-22T08:01:21.050Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:01:21.051Z] : [success]: Bot started
+
+[2021-09-22T08:01:21.053Z] : [info]: Robot start
+
+[2021-09-22T08:03:03.235Z] : [error]: Selectors: Nothing found
+
+[2021-09-22T08:03:03.239Z] : [error]: Total execution time: 1m 42s 181ms
+
+[2021-09-22T08:03:03.240Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:03:49.175Z] : [success]: Bot started
+
+[2021-09-22T08:03:49.177Z] : [info]: Robot start
+
+[2021-09-22T08:04:18.365Z] : [error]: Script Stopped.
+
+[2021-09-22T08:04:18.369Z] : [warn]: Total execution time: 29s 187ms
+
+[2021-09-22T08:04:18.370Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:04:31.650Z] : [success]: Bot started
+
+[2021-09-22T08:04:31.651Z] : [info]: Robot start
+
+[2021-09-22T08:05:41.578Z] : [error]: Selectors: Nothing found
+
+[2021-09-22T08:05:41.595Z] : [error]: Total execution time: 1m 9s 926ms
+
+[2021-09-22T08:05:41.596Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:12:29.338Z] : [success]: Bot started
+
+[2021-09-22T08:12:29.340Z] : [info]: Robot start
+
+[2021-09-22T08:12:51.021Z] : [error]: Selectors: Could not activate window
+
+
+[2021-09-22T08:12:51.025Z] : [error]: Total execution time: 21s 680ms
+
+[2021-09-22T08:12:51.027Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:12:59.145Z] : [success]: Bot started
+
+[2021-09-22T08:12:59.146Z] : [info]: Robot start
+
+[2021-09-22T08:13:23.967Z] : [error]: Selectors: Could not activate window
+
+
+[2021-09-22T08:13:23.970Z] : [error]: Total execution time: 24s 821ms
+
+[2021-09-22T08:13:23.971Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:14:01.276Z] : [success]: Bot started
+
+[2021-09-22T08:14:01.279Z] : [info]: Robot start
+
+[2021-09-22T08:14:05.964Z] : [error]: Selectors: Nothing found
+
+[2021-09-22T08:14:05.966Z] : [error]: Total execution time: 4s 684ms
+
+[2021-09-22T08:14:05.968Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:15:28.598Z] : [success]: Bot started
+
+[2021-09-22T08:15:28.601Z] : [info]: Robot start
+
+[2021-09-22T08:15:34.000Z] : [error]: Selectors: Nothing found
+
+[2021-09-22T08:15:34.003Z] : [error]: Total execution time: 5s 398ms
+
+[2021-09-22T08:15:34.005Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:16:04.829Z] : [success]: Bot started
+
+[2021-09-22T08:16:04.831Z] : [info]: Robot start
+
+[2021-09-22T08:16:07.025Z] : [success]: Bot finished successfully, total execution time: 2s 184ms
+
+[2021-09-22T08:16:07.027Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:16:22.972Z] : [success]: Bot started
+
+[2021-09-22T08:16:22.973Z] : [info]: Robot start
+
+[2021-09-22T08:16:28.011Z] : [success]: Bot finished successfully, total execution time: 5s 35ms
+
+[2021-09-22T08:16:28.012Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:16:44.092Z] : [success]: Bot started
+
+[2021-09-22T08:16:44.093Z] : [info]: Robot start
+
+[2021-09-22T08:16:49.010Z] : [success]: Bot finished successfully, total execution time: 4s 915ms
+
+[2021-09-22T08:16:49.012Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:17:05.319Z] : [success]: Bot started
+
+[2021-09-22T08:17:05.320Z] : [info]: Robot start
+
+[2021-09-22T08:17:10.003Z] : [success]: Bot finished successfully, total execution time: 4s 679ms
+
+[2021-09-22T08:17:10.004Z] : [info]: ---------------------------------------------
+
+[2021-09-22T08:17:46.040Z] : [success]: Bot started
+
+[2021-09-22T08:17:46.041Z] : [info]: Robot start
+
+[2021-09-22T08:17:50.030Z] : [success]: Bot finished successfully, total execution time: 3s 983ms
+
+[2021-09-22T08:17:50.033Z] : [info]: ---------------------------------------------
+

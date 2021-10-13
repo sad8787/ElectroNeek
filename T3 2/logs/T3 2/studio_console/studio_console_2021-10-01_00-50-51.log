@@ -1,0 +1,99 @@
+
+  ==========================================
+  Studio Pro version: 6.0.25
+  Started at: 1/10/2021 0:50:59
+  ==========================================
+  
+
+[2021-09-30T21:51:11.818Z] : [success]: Robot saved successfully
+
+[2021-09-30T21:51:11.873Z] : [info]: ---------------------------------------------
+
+[2021-09-30T21:51:11.873Z] : [success]: Bot started
+
+[2021-09-30T21:51:11.875Z] : [info]: Robot start
+
+[2021-09-30T21:51:18.585Z] : [info]: someone is there
+
+[2021-09-30T21:51:36.371Z] : [info]: END Loguin
+
+[2021-09-30T21:51:39.273Z] : [info]: END search
+
+[2021-09-30T21:51:45.498Z] : [success]: Bot finished successfully, total execution time: 33s 617ms
+
+[2021-09-30T21:51:45.500Z] : [info]: ---------------------------------------------
+
+[2021-09-30T21:52:04.553Z] : [success]: Robot saved successfully
+
+[2021-09-30T21:52:04.647Z] : [success]: Bot started
+
+[2021-09-30T21:52:04.648Z] : [info]: Robot start
+
+[2021-09-30T21:52:11.329Z] : [info]: someone is there
+
+[2021-09-30T21:52:29.276Z] : [info]: END Loguin
+
+[2021-09-30T21:52:32.494Z] : [info]: END search
+
+[2021-09-30T21:52:34.649Z] : [success]: Bot finished successfully, total execution time: 29s 998ms
+
+[2021-09-30T21:52:34.651Z] : [info]: ---------------------------------------------
+
+[2021-09-30T22:04:54.169Z] : [success]: Robot saved successfully
+
+[2021-09-30T22:04:54.280Z] : [success]: Bot started
+
+[2021-09-30T22:04:54.281Z] : [info]: Robot start
+
+[2021-09-30T22:05:41.904Z] : [info]: someone is there
+
+[2021-09-30T22:06:00.470Z] : [info]: END Loguin
+
+[2021-09-30T22:06:03.439Z] : [info]: END search
+
+[2021-09-30T22:06:07.765Z] : [error]: Terminal: Se produjo una excepción en el inicializador de tipo de 'ElectroneekWinAgent.SelectorsApi.Controllers.TerminalController'.
+
+[2021-09-30T22:06:07.788Z] : [error]: Total execution time: 1m 13s 482ms
+
+[2021-09-30T22:06:07.791Z] : [info]: ---------------------------------------------
+
+[2021-09-30T22:07:51.081Z] : [success]: Robot saved successfully
+
+[2021-09-30T22:07:51.167Z] : [success]: Bot started
+
+[2021-09-30T22:07:51.168Z] : [info]: Robot start
+
+[2021-09-30T22:08:38.535Z] : [info]: someone is there
+
+[2021-09-30T22:08:56.402Z] : [info]: END Loguin
+
+[2021-09-30T22:08:59.785Z] : [info]: END search
+
+[2021-09-30T22:09:02.684Z] : [error]: Terminal: Se produjo una excepción en el inicializador de tipo de 'ElectroneekWinAgent.SelectorsApi.Controllers.TerminalController'.
+
+[2021-09-30T22:09:02.693Z] : [error]: Total execution time: 1m 11s 508ms
+
+[2021-09-30T22:09:02.696Z] : [info]: ---------------------------------------------
+
+[2021-09-30T22:10:12.493Z] : [success]: Robot saved successfully
+
+[2021-09-30T22:10:12.549Z] : [success]: Bot started
+
+[2021-09-30T22:10:12.550Z] : [info]: Robot start
+
+[2021-09-30T22:10:59.871Z] : [info]: someone is there
+
+[2021-09-30T22:11:17.358Z] : [info]: END Loguin
+
+[2021-09-30T22:11:20.649Z] : [info]: END search
+
+[2021-09-30T22:11:24.506Z] : [error]: Terminal: Se produjo una excepción en el inicializador de tipo de 'ElectroneekWinAgent.SelectorsApi.Controllers.TerminalController'.
+
+[2021-09-30T22:11:24.512Z] : [error]: Total execution time: 1m 11s 956ms
+
+[2021-09-30T22:11:24.514Z] : [info]: ---------------------------------------------
+
+[2021-09-30T22:18:18.882Z] : [success]: Robot saved successfully
+
+[2021-09-30T22:18:22.362Z] : [success]: Robot saved successfully
+

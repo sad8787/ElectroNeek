@@ -1,0 +1,51 @@
+
+  ==========================================
+  Studio Pro version: 6.0.25
+  Started at: 29/9/2021 23:43:58
+  ==========================================
+  
+
+[2021-09-29T20:44:08.348Z] : [success]: Robot saved successfully
+
+[2021-09-29T20:44:08.396Z] : [info]: ---------------------------------------------
+
+[2021-09-29T20:44:08.397Z] : [success]: Bot started
+
+[2021-09-29T20:44:08.398Z] : [info]: Robot start
+
+[2021-09-29T20:44:16.225Z] : [info]: someone is there
+
+[2021-09-29T20:44:19.733Z] : [error]: Selectors: Nothing found
+
+[2021-09-29T20:44:19.742Z] : [error]: Total execution time: 11s 335ms
+
+[2021-09-29T20:44:19.744Z] : [info]: ---------------------------------------------
+
+[2021-09-29T20:50:09.202Z] : [success]: Robot saved successfully
+
+[2021-09-29T20:50:09.284Z] : [success]: Bot started
+
+[2021-09-29T20:50:09.285Z] : [info]: Robot start
+
+[2021-09-29T20:50:25.488Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-29T20:50:28.246Z] : [error]: Selectors: Nothing found
+
+[2021-09-29T20:50:28.258Z] : [error]: Total execution time: 18s 959ms
+
+[2021-09-29T20:50:28.261Z] : [info]: ---------------------------------------------
+
+[2021-09-29T20:52:27.432Z] : [success]: Robot saved successfully
+
+[2021-09-29T20:52:27.491Z] : [success]: Bot started
+
+[2021-09-29T20:52:27.491Z] : [info]: Robot start
+
+[2021-09-29T20:52:34.103Z] : [info]: someone is there
+
+[2021-09-29T20:52:35.197Z] : [error]: Selectors: Nothing found
+
+[2021-09-29T20:52:35.202Z] : [error]: Total execution time: 7s 704ms
+
+[2021-09-29T20:52:35.204Z] : [info]: ---------------------------------------------
+

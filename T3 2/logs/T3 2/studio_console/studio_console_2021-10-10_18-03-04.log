@@ -1,0 +1,277 @@
+
+  ==========================================
+  Studio Pro version: 6.3.2
+  Started at: 10/10/2021 18:05:23
+  ==========================================
+  
+
+[2021-10-10T15:05:34.246Z] : [warn]: There is a small amount of free memory (RAM) left, 90.79% of RAM is being used (5500 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2021-10-10T15:15:11.140Z] : [success]: Robot saved successfully
+
+[2021-10-10T15:15:11.362Z] : [info]: ---------------------------------------------
+
+[2021-10-10T15:15:11.363Z] : [success]: Bot started
+
+[2021-10-10T15:15:11.364Z] : [info]: Robot start
+
+[2021-10-10T15:15:20.357Z] : [info]: <p>Добрый день,</p><p></p><p>Меня зовут Садиэль Годалес. </p><p></p><p>На сайте hh.ru меня заинтересовала вакансия Специалист по IT, размещённая Вашей компанией.</p><p>Я получил высшее образование в г. Гавана (Куба) и работал программистом у поставщика программного обеспечения. Имею опыт работы с клиентами, занимался защитой информации, управлял базами данных. Знаком со стандартными алгоритмами и структурами данных, немного с Linux. Уверенно программирую на языках C#, SQL. Только что закончил курс по разработке мобильных приложений на Android.</p><p>Владею испанским (родной), русским и английским языками. Люблю свою профессию и не перестаю самосовершенствоваться.</p><p>Больше информации обо мне Вы можете прочитать в резюме. Готов ответить на Ваши вопросы при личной встрече или по скайпу. При необходимости готов выполнить тестовое задание.</p><p>Вы можете связаться со мной по телефону 8 916 257 72 33, WhatsApp +7 963 7169740 или по электронной почте, sadielgodales@gmail.com.</p><p>https://github.com/sad8787/C-repo</p><p>https://github.com/sad8787/Java</p><p></p>
+
+[2021-10-10T15:15:35.298Z] : [warn]: There is a small amount of free memory (RAM) left, 93.27% of RAM is being used (5650 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2021-10-10T15:16:11.270Z] : [error]: Selectors: Nothing found
+
+[2021-10-10T15:16:11.312Z] : [error]: Total execution time: 59s 905ms
+
+[2021-10-10T15:16:11.313Z] : [info]: ---------------------------------------------
+
+[2021-10-10T15:16:30.304Z] : [success]: Robot saved successfully
+
+[2021-10-10T15:16:30.490Z] : [success]: Bot started
+
+[2021-10-10T15:16:30.491Z] : [info]: Robot start
+
+[2021-10-10T15:16:37.623Z] : [info]: <p>Добрый день,</p><p></p><p>Меня зовут Садиэль Годалес. </p><p></p><p>На сайте hh.ru меня заинтересовала вакансия Специалист по IT, размещённая Вашей компанией.</p><p>Я получил высшее образование в г. Гавана (Куба) и работал программистом у поставщика программного обеспечения. Имею опыт работы с клиентами, занимался защитой информации, управлял базами данных. Знаком со стандартными алгоритмами и структурами данных, немного с Linux. Уверенно программирую на языках C#, SQL. Только что закончил курс по разработке мобильных приложений на Android.</p><p>Владею испанским (родной), русским и английским языками. Люблю свою профессию и не перестаю самосовершенствоваться.</p><p>Больше информации обо мне Вы можете прочитать в резюме. Готов ответить на Ваши вопросы при личной встрече или по скайпу. При необходимости готов выполнить тестовое задание.</p><p>Вы можете связаться со мной по телефону 8 916 257 72 33, WhatsApp +7 963 7169740 или по электронной почте, sadielgodales@gmail.com.</p><p>https://github.com/sad8787/C-repo</p><p>https://github.com/sad8787/Java</p><p></p>
+
+[2021-10-10T15:16:46.179Z] : [info]: someone is there
+
+[2021-10-10T15:17:05.280Z] : [warn]: There is a small amount of free memory (RAM) left, 90.41% of RAM is being used (5477 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2021-10-10T15:17:09.570Z] : [info]: END Loguin
+
+[2021-10-10T15:17:16.194Z] : [info]: END search
+
+[2021-10-10T15:17:23.545Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-10T15:18:00.553Z] : [info]: take contact details
+
+[2021-10-10T15:18:12.925Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:18:14.619Z] : [info]: si aclicar
+
+[2021-10-10T15:18:37.016Z] : [info]: END search
+
+[2021-10-10T15:19:20.412Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:19:22.145Z] : [info]: si aclicar
+
+[2021-10-10T15:19:45.110Z] : [info]: END search
+
+[2021-10-10T15:19:52.329Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-10T15:20:17.121Z] : [info]: take contact details
+
+[2021-10-10T15:20:28.487Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:20:30.119Z] : [info]: si aclicar
+
+[2021-10-10T15:20:53.673Z] : [info]: END search
+
+[2021-10-10T15:20:59.855Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-10T15:21:04.683Z] : [warn]: There is a small amount of free memory (RAM) left, 90.72% of RAM is being used (5496 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2021-10-10T15:21:15.924Z] : [info]: take contact details
+
+[2021-10-10T15:21:27.606Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:21:29.264Z] : [info]: si aclicar
+
+[2021-10-10T15:21:55.114Z] : [info]: END search
+
+[2021-10-10T15:22:02.836Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-10T15:22:38.162Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:22:39.885Z] : [info]: si aclicar
+
+[2021-10-10T15:23:04.397Z] : [info]: END search
+
+[2021-10-10T15:23:10.907Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:23:12.622Z] : [info]: si aclicar
+
+[2021-10-10T15:23:35.864Z] : [info]: END search
+
+[2021-10-10T15:23:47.774Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:23:49.565Z] : [info]: si aclicar
+
+[2021-10-10T15:24:13.006Z] : [info]: END search
+
+[2021-10-10T15:24:20.769Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:24:22.553Z] : [info]: si aclicar
+
+[2021-10-10T15:24:47.204Z] : [info]: END search
+
+[2021-10-10T15:24:53.809Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-10T15:25:24.574Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:25:26.319Z] : [info]: si aclicar
+
+[2021-10-10T15:25:49.288Z] : [info]: END search
+
+[2021-10-10T15:25:56.651Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-10T15:26:29.010Z] : [info]: take contact details
+
+[2021-10-10T15:26:33.824Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:26:35.551Z] : [info]: si aclicar
+
+[2021-10-10T15:27:01.073Z] : [info]: END search
+
+[2021-10-10T15:27:07.320Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-10T15:27:28.808Z] : [info]: take contact details
+
+[2021-10-10T15:27:40.975Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:27:42.768Z] : [info]: si aclicar
+
+[2021-10-10T15:28:05.666Z] : [info]: END search
+
+[2021-10-10T15:28:13.278Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:28:14.947Z] : [info]: si aclicar
+
+[2021-10-10T15:28:36.490Z] : [info]: END search
+
+[2021-10-10T15:28:45.120Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:28:46.795Z] : [info]: si aclicar
+
+[2021-10-10T15:29:10.289Z] : [info]: END search
+
+[2021-10-10T15:29:17.854Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:29:19.567Z] : [info]: si aclicar
+
+[2021-10-10T15:29:42.486Z] : [info]: END search
+
+[2021-10-10T15:29:50.290Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:30:05.318Z] : [info]: no aclicar porque Es examen
+
+[2021-10-10T15:30:25.293Z] : [info]: END search
+
+[2021-10-10T15:30:34.202Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:30:35.852Z] : [info]: si aclicar
+
+[2021-10-10T15:30:58.782Z] : [info]: END search
+
+[2021-10-10T15:31:05.215Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-10T15:31:34.829Z] : [info]: take contact details
+
+[2021-10-10T15:31:39.630Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:31:41.328Z] : [info]: si aclicar
+
+[2021-10-10T15:32:05.043Z] : [info]: END search
+
+[2021-10-10T15:32:11.302Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-10T15:32:37.906Z] : [info]: take contact details
+
+[2021-10-10T15:32:43.381Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:32:45.046Z] : [info]: si aclicar
+
+[2021-10-10T15:33:08.778Z] : [info]: END search
+
+[2021-10-10T15:33:16.540Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:33:18.295Z] : [info]: si aclicar
+
+[2021-10-10T15:33:41.456Z] : [info]: END search
+
+[2021-10-10T15:33:47.764Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-10T15:34:13.613Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:34:15.330Z] : [info]: si aclicar
+
+[2021-10-10T15:34:39.244Z] : [info]: END search
+
+[2021-10-10T15:34:45.406Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-10T15:35:11.119Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:35:12.752Z] : [info]: si aclicar
+
+[2021-10-10T15:35:37.900Z] : [info]: END search
+
+[2021-10-10T15:35:46.866Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:36:02.933Z] : [info]: no aclicar porque Es examen
+
+[2021-10-10T15:36:22.874Z] : [info]: END search
+
+[2021-10-10T15:36:31.803Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:36:33.484Z] : [info]: si aclicar
+
+[2021-10-10T15:36:56.497Z] : [info]: END search
+
+[2021-10-10T15:37:05.255Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:37:21.376Z] : [info]: no aclicar porque Es examen
+
+[2021-10-10T15:37:41.625Z] : [info]: END search
+
+[2021-10-10T15:37:49.200Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:37:50.875Z] : [info]: si aclicar
+
+[2021-10-10T15:38:14.069Z] : [info]: END search
+
+[2021-10-10T15:38:20.448Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-10T15:38:38.326Z] : [info]: take contact details
+
+[2021-10-10T15:38:49.786Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:38:51.488Z] : [info]: si aclicar
+
+[2021-10-10T15:39:16.032Z] : [info]: END search
+
+[2021-10-10T15:39:23.682Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:39:25.435Z] : [info]: si aclicar
+
+[2021-10-10T15:39:48.663Z] : [info]: END search
+
+[2021-10-10T15:39:56.320Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:39:57.995Z] : [info]: si aclicar
+
+[2021-10-10T15:40:20.999Z] : [info]: END search
+
+[2021-10-10T15:40:28.635Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:40:30.308Z] : [info]: si aclicar
+
+[2021-10-10T15:40:54.982Z] : [info]: END search
+
+[2021-10-10T15:41:02.602Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:41:04.243Z] : [info]: si aclicar
+
+[2021-10-10T15:44:26.848Z] : [info]: END search
+
+[2021-10-10T15:44:34.522Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-10T15:44:36.503Z] : [info]: si aclicar
+
+[2021-10-10T15:45:01.284Z] : [error]: Delay been disposed
+
+[2021-10-10T15:45:01.289Z] : [error]: Total execution time: 28m 30s 792ms
+
+[2021-10-10T15:45:01.290Z] : [info]: ---------------------------------------------
+
+[2021-10-10T16:12:33.684Z] : [success]: Robot saved successfully
+

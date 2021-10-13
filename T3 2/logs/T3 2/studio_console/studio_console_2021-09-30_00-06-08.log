@@ -1,0 +1,67 @@
+[2021-09-30T17:44:39.500Z] : [error]: Uncaught (in promise): t: {"headers":{"normalizedNames":{},"lazyUpdate":null},"status":500,"statusText":"Internal Server Error","url":"http://localhost:5000/api/is-published","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5000/api/is-published: 500 Internal Server Error","error":{"statusCode":500,"message":"Internal server error"}}
+
+
+  ==========================================
+  Studio Pro version: 6.0.25
+  Started at: 30/9/2021 20:44:40
+  ==========================================
+  
+
+[2021-09-30T18:52:17.689Z] : [success]: Robot saved successfully
+
+[2021-09-30T18:52:17.756Z] : [info]: ---------------------------------------------
+
+[2021-09-30T18:52:17.757Z] : [success]: Bot started
+
+[2021-09-30T18:52:17.758Z] : [info]: Robot start
+
+[2021-09-30T18:52:29.769Z] : [info]: someone is there
+
+[2021-09-30T18:52:34.345Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T18:52:34.352Z] : [error]: Total execution time: 16s 585ms
+
+[2021-09-30T18:52:34.359Z] : [info]: ---------------------------------------------
+
+[2021-09-30T18:54:24.890Z] : [success]: Robot saved successfully
+
+[2021-09-30T18:54:25.024Z] : [success]: Bot started
+
+[2021-09-30T18:54:25.025Z] : [info]: Robot start
+
+[2021-09-30T18:54:31.672Z] : [info]: someone is there
+
+[2021-09-30T18:54:33.435Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T18:54:33.438Z] : [error]: Total execution time: 8s 409ms
+
+[2021-09-30T18:54:33.441Z] : [info]: ---------------------------------------------
+
+[2021-09-30T18:55:59.477Z] : [success]: Robot saved successfully
+
+[2021-09-30T18:55:59.547Z] : [success]: Bot started
+
+[2021-09-30T18:55:59.548Z] : [info]: Robot start
+
+[2021-09-30T18:56:46.733Z] : [info]: someone is there
+
+[2021-09-30T18:56:53.519Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T18:56:53.527Z] : [error]: Total execution time: 53s 969ms
+
+[2021-09-30T18:56:53.528Z] : [info]: ---------------------------------------------
+
+[2021-09-30T18:58:51.450Z] : [success]: Robot saved successfully
+
+[2021-09-30T18:58:51.509Z] : [success]: Bot started
+
+[2021-09-30T18:58:51.510Z] : [info]: Robot start
+
+[2021-09-30T18:59:32.483Z] : [error]: Script Stopped.
+
+[2021-09-30T18:59:32.486Z] : [warn]: Total execution time: 40s 972ms
+
+[2021-09-30T18:59:32.488Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:03:18.620Z] : [success]: Robot saved successfully
+

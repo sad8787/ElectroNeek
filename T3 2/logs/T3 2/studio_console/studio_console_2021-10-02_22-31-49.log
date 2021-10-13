@@ -1,0 +1,165 @@
+
+  ==========================================
+  Studio Pro version: 6.3.2
+  Started at: 2/10/2021 22:32:12
+  ==========================================
+  
+
+[2021-10-02T19:38:59.187Z] : [success]: Robot saved successfully
+
+[2021-10-02T19:38:59.332Z] : [info]: ---------------------------------------------
+
+[2021-10-02T19:38:59.333Z] : [success]: Bot started
+
+[2021-10-02T19:38:59.333Z] : [info]: Robot start
+
+[2021-10-02T19:39:16.977Z] : [info]: someone is there
+
+[2021-10-02T19:39:34.519Z] : [info]: END Loguin
+
+[2021-10-02T19:39:37.483Z] : [info]: END search
+
+[2021-10-02T19:39:41.989Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-02T19:40:07.868Z] : [error]: Selectors: Nothing found
+
+[2021-10-02T19:40:07.872Z] : [error]: Total execution time: 1m 8s 533ms
+
+[2021-10-02T19:40:07.873Z] : [info]: ---------------------------------------------
+
+[2021-10-02T19:58:38.006Z] : [success]: Robot saved successfully
+
+[2021-10-02T19:58:38.088Z] : [success]: Bot started
+
+[2021-10-02T19:58:38.089Z] : [info]: Robot start
+
+[2021-10-02T19:58:43.198Z] : [error]: Selectors: Nothing found
+
+[2021-10-02T19:58:43.202Z] : [error]: Total execution time: 5s 108ms
+
+[2021-10-02T19:58:43.204Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:02:59.004Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:02:59.088Z] : [success]: Bot started
+
+[2021-10-02T20:02:59.089Z] : [info]: Robot start
+
+[2021-10-02T20:03:03.133Z] : [error]: The agent is already running another script.
+
+[2021-10-02T20:03:03.142Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:04:05.463Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:04:05.703Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:04:05.704Z] : [success]: Bot started
+
+[2021-10-02T20:04:05.705Z] : [info]: Robot start
+
+[2021-10-02T20:05:05.265Z] : [info]: someone is there
+
+[2021-10-02T20:05:22.544Z] : [info]: END Loguin
+
+[2021-10-02T20:05:25.501Z] : [info]: END search
+
+[2021-10-02T20:05:29.326Z] : [error]: Selectors: Nothing found
+
+[2021-10-02T20:05:29.335Z] : [error]: Total execution time: 1m 23s 620ms
+
+[2021-10-02T20:05:29.337Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:07:32.535Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:07:32.628Z] : [success]: Bot started
+
+[2021-10-02T20:07:32.629Z] : [info]: Robot start
+
+[2021-10-02T20:08:21.245Z] : [info]: someone is there
+
+[2021-10-02T20:08:38.873Z] : [info]: END Loguin
+
+[2021-10-02T20:08:41.980Z] : [info]: END search
+
+[2021-10-02T20:08:45.886Z] : [info]: 1231485
+
+[2021-10-02T20:08:46.305Z] : [success]: Bot finished successfully, total execution time: 1m 13s 671ms
+
+[2021-10-02T20:08:46.308Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:09:18.126Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:09:18.189Z] : [success]: Bot started
+
+[2021-10-02T20:09:18.190Z] : [info]: Robot start
+
+[2021-10-02T20:10:06.820Z] : [info]: someone is there
+
+[2021-10-02T20:10:24.180Z] : [info]: END Loguin
+
+[2021-10-02T20:10:27.497Z] : [info]: END search
+
+[2021-10-02T20:10:30.660Z] : [info]: 1231 ; 485
+
+[2021-10-02T20:10:31.308Z] : [success]: Bot finished successfully, total execution time: 1m 13s 112ms
+
+[2021-10-02T20:10:31.310Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:12:49.013Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:12:49.112Z] : [success]: Bot started
+
+[2021-10-02T20:12:49.113Z] : [info]: Robot start
+
+[2021-10-02T20:13:38.214Z] : [info]: someone is there
+
+[2021-10-02T20:13:55.749Z] : [info]: END Loguin
+
+[2021-10-02T20:13:58.926Z] : [info]: END search
+
+[2021-10-02T20:14:03.948Z] : [info]: 1231 ; 485
+
+[2021-10-02T20:16:27.985Z] : [error]: Script Stopped.
+
+[2021-10-02T20:16:27.991Z] : [warn]: Total execution time: 3m 38s 871ms
+
+[2021-10-02T20:16:27.992Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:21:29.565Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:21:29.670Z] : [success]: Bot started
+
+[2021-10-02T20:21:29.728Z] : [info]: Robot start
+
+[2021-10-02T20:21:40.769Z] : [error]: Script Stopped.
+
+[2021-10-02T20:21:40.774Z] : [warn]: Total execution time: 11s 40ms
+
+[2021-10-02T20:21:40.775Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:22:49.102Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:22:49.198Z] : [success]: Bot started
+
+[2021-10-02T20:22:49.199Z] : [info]: Robot start
+
+[2021-10-02T20:22:53.145Z] : [error]: Selectors: Nothing found
+
+[2021-10-02T20:22:53.148Z] : [error]: Total execution time: 3s 945ms
+
+[2021-10-02T20:22:53.149Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:25:27.296Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:25:27.383Z] : [success]: Bot started
+
+[2021-10-02T20:25:27.383Z] : [info]: Robot start
+
+[2021-10-02T20:25:31.146Z] : [error]: Selectors: Nothing found
+
+[2021-10-02T20:25:31.150Z] : [error]: Total execution time: 3s 762ms
+
+[2021-10-02T20:25:31.151Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:25:40.213Z] : [success]: Robot saved successfully
+

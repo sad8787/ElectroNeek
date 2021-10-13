@@ -1,0 +1,1 @@
+[{"label":"Terminal elements","selectable":false,"expanded":true,"children":[{"label":"sd","data":{"uuid":"9314a0bc-3b9f-4dd7-9d3b-e6bb75d45279","termSelector":{"start_x":1,"start_y":1,"end_x":0,"end_y":0},"version":"5.2.0","lastModified":"6.5.4","comment":""},"elementType":"terminal"}],"elementType":"terminal"}]

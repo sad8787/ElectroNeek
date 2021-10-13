@@ -1,0 +1,349 @@
+
+  ==========================================
+  Studio Pro version: 6.3.2
+  Started at: 10/10/2021 1:22:56
+  ==========================================
+  
+
+[2021-10-09T22:24:33.797Z] : [success]: Robot saved successfully
+
+[2021-10-09T22:24:37.177Z] : [success]: Robot saved successfully
+
+[2021-10-09T22:24:37.319Z] : [info]: ---------------------------------------------
+
+[2021-10-09T22:24:37.320Z] : [success]: Bot started
+
+[2021-10-09T22:24:37.322Z] : [info]: Robot start
+
+[2021-10-09T22:24:40.092Z] : [info]: <p>Добрый день,</p><p></p><p>Меня зовут Садиэль Годалес. </p><p></p><p>На сайте hh.ru меня заинтересовала вакансия Специалист по IT, размещённая Вашей компанией.</p><p>Я получил высшее образование в г. Гавана (Куба) и работал программистом у поставщика программного обеспечения. Имею опыт работы с клиентами, занимался защитой информации, управлял базами данных. Знаком со стандартными алгоритмами и структурами данных, немного с Linux. Уверенно программирую на языках C#, SQL. Только что закончил курс по разработке мобильных приложений на Android.</p><p>Владею испанским (родной), русским и английским языками. Люблю свою профессию и не перестаю самосовершенствоваться.</p><p>Больше информации обо мне Вы можете прочитать в резюме. Готов ответить на Ваши вопросы при личной встрече или по скайпу. При необходимости готов выполнить тестовое задание.</p><p>Вы можете связаться со мной по телефону 8 916 257 72 33, WhatsApp +7 963 7169740 или по электронной почте, sadielgodales@gmail.com.</p><p>https://github.com/sad8787/C-repo</p><p>https://github.com/sad8787/Java</p><p></p>
+
+[2021-10-09T22:24:47.216Z] : [info]: someone is there
+
+[2021-10-09T22:25:10.153Z] : [info]: END Loguin
+
+[2021-10-09T22:25:15.097Z] : [info]: END search
+
+[2021-10-09T22:25:22.859Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:25:24.711Z] : [info]: si aclicar
+
+[2021-10-09T22:25:48.232Z] : [info]: END search
+
+[2021-10-09T22:26:01.102Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:26:02.805Z] : [info]: si aclicar
+
+[2021-10-09T22:26:27.557Z] : [info]: END search
+
+[2021-10-09T22:26:35.110Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T22:27:03.374Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:27:05.056Z] : [info]: si aclicar
+
+[2021-10-09T22:27:28.212Z] : [info]: END search
+
+[2021-10-09T22:27:36.705Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:27:38.421Z] : [info]: si aclicar
+
+[2021-10-09T22:28:01.646Z] : [info]: END search
+
+[2021-10-09T22:28:09.802Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T22:28:46.000Z] : [info]: take contact details
+
+[2021-10-09T22:28:57.717Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:28:59.412Z] : [info]: si aclicar
+
+[2021-10-09T22:29:22.487Z] : [info]: END search
+
+[2021-10-09T22:29:35.221Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:29:37.025Z] : [info]: si aclicar
+
+[2021-10-09T22:30:00.596Z] : [info]: END search
+
+[2021-10-09T22:30:06.963Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T22:30:47.477Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:30:49.176Z] : [info]: si aclicar
+
+[2021-10-09T22:31:12.950Z] : [info]: END search
+
+[2021-10-09T22:31:21.329Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:31:22.946Z] : [info]: si aclicar
+
+[2021-10-09T22:31:45.976Z] : [info]: END search
+
+[2021-10-09T22:31:52.305Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T22:32:19.292Z] : [info]: take contact details
+
+[2021-10-09T22:32:31.482Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:32:33.144Z] : [info]: si aclicar
+
+[2021-10-09T22:32:57.048Z] : [info]: END search
+
+[2021-10-09T22:33:04.290Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T22:33:29.890Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:33:31.579Z] : [info]: si aclicar
+
+[2021-10-09T22:33:55.532Z] : [info]: END search
+
+[2021-10-09T22:34:03.803Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:34:05.543Z] : [info]: si aclicar
+
+[2021-10-09T22:34:29.767Z] : [info]: END search
+
+[2021-10-09T22:36:23.171Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:36:33.370Z] : [error]: Script Stopped.
+
+[2021-10-09T22:36:33.385Z] : [warn]: Total execution time: 11m 56s 47ms
+
+[2021-10-09T22:36:33.386Z] : [info]: ---------------------------------------------
+
+[2021-10-09T22:39:43.706Z] : [success]: Robot saved successfully
+
+[2021-10-09T22:39:43.852Z] : [success]: Bot started
+
+[2021-10-09T22:39:43.853Z] : [info]: Robot start
+
+[2021-10-09T22:39:49.972Z] : [info]: <p>Добрый день,</p><p></p><p>Меня зовут Садиэль Годалес. </p><p></p><p>На сайте hh.ru меня заинтересовала вакансия Специалист по IT, размещённая Вашей компанией.</p><p>Я получил высшее образование в г. Гавана (Куба) и работал программистом у поставщика программного обеспечения. Имею опыт работы с клиентами, занимался защитой информации, управлял базами данных. Знаком со стандартными алгоритмами и структурами данных, немного с Linux. Уверенно программирую на языках C#, SQL. Только что закончил курс по разработке мобильных приложений на Android.</p><p>Владею испанским (родной), русским и английским языками. Люблю свою профессию и не перестаю самосовершенствоваться.</p><p>Больше информации обо мне Вы можете прочитать в резюме. Готов ответить на Ваши вопросы при личной встрече или по скайпу. При необходимости готов выполнить тестовое задание.</p><p>Вы можете связаться со мной по телефону 8 916 257 72 33, WhatsApp +7 963 7169740 или по электронной почте, sadielgodales@gmail.com.</p><p>https://github.com/sad8787/C-repo</p><p>https://github.com/sad8787/Java</p><p></p>
+
+[2021-10-09T22:39:56.719Z] : [info]: someone is there
+
+[2021-10-09T22:40:19.556Z] : [info]: END Loguin
+
+[2021-10-09T22:40:26.002Z] : [info]: END search
+
+[2021-10-09T22:42:04.094Z] : [error]: Delay been disposed
+
+[2021-10-09T22:42:04.097Z] : [error]: Total execution time: 2m 20s 240ms
+
+[2021-10-09T22:42:04.098Z] : [info]: ---------------------------------------------
+
+[2021-10-09T22:42:18.140Z] : [success]: Robot saved successfully
+
+[2021-10-09T22:42:18.264Z] : [success]: Bot started
+
+[2021-10-09T22:42:18.266Z] : [info]: Robot start
+
+[2021-10-09T22:42:23.246Z] : [info]: <p>Добрый день,</p><p></p><p>Меня зовут Садиэль Годалес. </p><p></p><p>На сайте hh.ru меня заинтересовала вакансия Специалист по IT, размещённая Вашей компанией.</p><p>Я получил высшее образование в г. Гавана (Куба) и работал программистом у поставщика программного обеспечения. Имею опыт работы с клиентами, занимался защитой информации, управлял базами данных. Знаком со стандартными алгоритмами и структурами данных, немного с Linux. Уверенно программирую на языках C#, SQL. Только что закончил курс по разработке мобильных приложений на Android.</p><p>Владею испанским (родной), русским и английским языками. Люблю свою профессию и не перестаю самосовершенствоваться.</p><p>Больше информации обо мне Вы можете прочитать в резюме. Готов ответить на Ваши вопросы при личной встрече или по скайпу. При необходимости готов выполнить тестовое задание.</p><p>Вы можете связаться со мной по телефону 8 916 257 72 33, WhatsApp +7 963 7169740 или по электронной почте, sadielgodales@gmail.com.</p><p>https://github.com/sad8787/C-repo</p><p>https://github.com/sad8787/Java</p><p></p>
+
+[2021-10-09T22:42:29.841Z] : [info]: someone is there
+
+[2021-10-09T22:42:52.887Z] : [info]: END Loguin
+
+[2021-10-09T22:42:57.708Z] : [info]: END search
+
+[2021-10-09T22:43:05.198Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T22:43:35.674Z] : [info]: take contact details
+
+[2021-10-09T22:43:48.424Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:43:50.119Z] : [info]: si aclicar
+
+[2021-10-09T22:44:13.736Z] : [info]: END search
+
+[2021-10-09T22:45:25.173Z] : [error]: Script Stopped.
+
+[2021-10-09T22:45:25.176Z] : [warn]: Total execution time: 3m 6s 906ms
+
+[2021-10-09T22:45:25.177Z] : [info]: ---------------------------------------------
+
+[2021-10-09T22:47:59.227Z] : [success]: Robot saved successfully
+
+[2021-10-09T22:48:23.709Z] : [success]: Robot saved successfully
+
+[2021-10-09T22:48:23.858Z] : [success]: Bot started
+
+[2021-10-09T22:48:23.859Z] : [info]: Robot start
+
+[2021-10-09T22:48:29.182Z] : [info]: <p>Добрый день,</p><p></p><p>Меня зовут Садиэль Годалес. </p><p></p><p>На сайте hh.ru меня заинтересовала вакансия Специалист по IT, размещённая Вашей компанией.</p><p>Я получил высшее образование в г. Гавана (Куба) и работал программистом у поставщика программного обеспечения. Имею опыт работы с клиентами, занимался защитой информации, управлял базами данных. Знаком со стандартными алгоритмами и структурами данных, немного с Linux. Уверенно программирую на языках C#, SQL. Только что закончил курс по разработке мобильных приложений на Android.</p><p>Владею испанским (родной), русским и английским языками. Люблю свою профессию и не перестаю самосовершенствоваться.</p><p>Больше информации обо мне Вы можете прочитать в резюме. Готов ответить на Ваши вопросы при личной встрече или по скайпу. При необходимости готов выполнить тестовое задание.</p><p>Вы можете связаться со мной по телефону 8 916 257 72 33, WhatsApp +7 963 7169740 или по электронной почте, sadielgodales@gmail.com.</p><p>https://github.com/sad8787/C-repo</p><p>https://github.com/sad8787/Java</p><p></p>
+
+[2021-10-09T22:48:35.974Z] : [info]: someone is there
+
+[2021-10-09T22:48:58.962Z] : [info]: END Loguin
+
+[2021-10-09T22:49:03.835Z] : [info]: END search
+
+[2021-10-09T22:49:11.413Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:49:13.039Z] : [info]: si aclicar
+
+[2021-10-09T22:49:36.114Z] : [info]: END search
+
+[2021-10-09T22:49:43.558Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:49:45.223Z] : [info]: si aclicar
+
+[2021-10-09T22:50:08.182Z] : [info]: END search
+
+[2021-10-09T22:50:19.164Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:50:20.843Z] : [info]: si aclicar
+
+[2021-10-09T22:50:43.606Z] : [info]: END search
+
+[2021-10-09T22:50:49.762Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T22:51:27.234Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:51:28.864Z] : [info]: si aclicar
+
+[2021-10-09T22:51:53.861Z] : [info]: END search
+
+[2021-10-09T22:52:00.166Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T22:52:34.372Z] : [info]: take contact details
+
+[2021-10-09T22:52:45.867Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:53:01.924Z] : [info]: no aclicar porque Es examen
+
+[2021-10-09T22:53:23.768Z] : [info]: END search
+
+[2021-10-09T22:53:29.991Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T22:54:13.830Z] : [info]: take contact details
+
+[2021-10-09T22:54:25.966Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:54:27.609Z] : [info]: si aclicar
+
+[2021-10-09T22:54:50.666Z] : [info]: END search
+
+[2021-10-09T22:55:02.467Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:55:18.505Z] : [info]: no aclicar porque Es examen
+
+[2021-10-09T22:55:38.495Z] : [info]: END search
+
+[2021-10-09T22:55:47.328Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:55:48.984Z] : [info]: si aclicar
+
+[2021-10-09T22:56:11.960Z] : [info]: END search
+
+[2021-10-09T22:56:23.812Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:56:25.526Z] : [info]: si aclicar
+
+[2021-10-09T22:56:48.886Z] : [info]: END search
+
+[2021-10-09T22:56:56.262Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:56:57.960Z] : [info]: si aclicar
+
+[2021-10-09T22:57:21.129Z] : [info]: END search
+
+[2021-10-09T22:57:28.646Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:57:30.381Z] : [info]: si aclicar
+
+[2021-10-09T22:57:53.649Z] : [info]: END search
+
+[2021-10-09T22:58:01.102Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T22:58:31.115Z] : [info]: take contact details
+
+[2021-10-09T22:58:42.653Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:58:58.826Z] : [info]: no aclicar porque Es examen
+
+[2021-10-09T22:59:19.408Z] : [info]: END search
+
+[2021-10-09T22:59:25.403Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T22:59:43.797Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T22:59:45.436Z] : [info]: si aclicar
+
+[2021-10-09T23:00:09.178Z] : [info]: END search
+
+[2021-10-09T23:00:15.197Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T23:00:40.419Z] : [info]: take contact details
+
+[2021-10-09T23:00:45.191Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T23:00:46.873Z] : [info]: si aclicar
+
+[2021-10-09T23:01:10.957Z] : [info]: END search
+
+[2021-10-09T23:01:18.335Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T23:01:20.020Z] : [info]: si aclicar
+
+[2021-10-09T23:01:42.982Z] : [info]: END search
+
+[2021-10-09T23:01:49.222Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T23:02:09.660Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T23:02:11.361Z] : [info]: si aclicar
+
+[2021-10-09T23:02:35.314Z] : [info]: END search
+
+[2021-10-09T23:02:43.743Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T23:02:45.414Z] : [info]: si aclicar
+
+[2021-10-09T23:03:09.587Z] : [info]: END search
+
+[2021-10-09T23:03:16.280Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T23:03:34.967Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T23:03:36.630Z] : [info]: si aclicar
+
+[2021-10-09T23:04:01.108Z] : [info]: END search
+
+[2021-10-09T23:04:06.081Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T23:04:27.712Z] : [info]: take contact details
+
+[2021-10-09T23:04:33.033Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T23:04:34.655Z] : [info]: si aclicar
+
+[2021-10-09T23:04:58.933Z] : [info]: END search
+
+[2021-10-09T23:05:07.540Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T23:05:09.319Z] : [info]: si aclicar
+
+[2021-10-09T23:05:32.662Z] : [info]: END search
+
+[2021-10-09T23:05:37.559Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T23:06:10.073Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T23:06:25.849Z] : [info]: no aclicar porque Es examen
+
+[2021-10-09T23:06:31.601Z] : [info]: Error 
+
+[2021-10-09T23:06:32.685Z] : [success]: Bot finished successfully, total execution time: 18m 8s 819ms
+
+[2021-10-09T23:06:32.687Z] : [info]: ---------------------------------------------
+
+[2021-10-09T23:22:18.044Z] : [success]: Robot saved successfully
+
+[2021-10-09T23:22:18.167Z] : [success]: Bot started
+
+[2021-10-09T23:22:18.168Z] : [info]: Robot start
+
+[2021-10-09T23:22:25.710Z] : [success]: Bot finished successfully, total execution time: 7s 538ms
+
+[2021-10-09T23:22:25.712Z] : [info]: ---------------------------------------------
+

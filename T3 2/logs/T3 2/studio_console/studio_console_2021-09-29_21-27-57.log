@@ -1,0 +1,153 @@
+
+  ==========================================
+  Studio Pro version: 6.0.25
+  Started at: 29/9/2021 21:29:14
+  ==========================================
+  
+
+[2021-09-29T18:29:32.503Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:29:32.566Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:29:32.567Z] : [success]: Bot started
+
+[2021-09-29T18:29:32.569Z] : [info]: Robot start
+
+[2021-09-29T18:29:42.985Z] : [error]: Selectors: Error converting value {null} to type 'System.Int32'. Path 'x', line 1, position 38.
+
+[2021-09-29T18:29:42.989Z] : [error]: Total execution time: 10s 415ms
+
+[2021-09-29T18:29:42.991Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:31:06.192Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:31:06.265Z] : [success]: Bot started
+
+[2021-09-29T18:31:06.266Z] : [info]: Robot start
+
+[2021-09-29T18:31:16.167Z] : [error]: Selectors: Nothing found
+
+[2021-09-29T18:31:16.172Z] : [error]: Total execution time: 9s 900ms
+
+[2021-09-29T18:31:16.173Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:31:38.545Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:31:38.620Z] : [success]: Bot started
+
+[2021-09-29T18:31:38.621Z] : [info]: Robot start
+
+[2021-09-29T18:31:47.320Z] : [error]: Selectors: Error converting value {null} to type 'System.Int32'. Path 'x', line 1, position 38.
+
+[2021-09-29T18:31:47.325Z] : [error]: Total execution time: 8s 698ms
+
+[2021-09-29T18:31:47.377Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:32:40.870Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:32:40.918Z] : [success]: Bot started
+
+[2021-09-29T18:32:40.919Z] : [info]: Robot start
+
+[2021-09-29T18:32:49.338Z] : [info]: la imajen esta en 462 y 290
+
+[2021-09-29T18:32:51.144Z] : [error]: Selectors: Error converting value {null} to type 'System.Int32'. Path 'x', line 1, position 38.
+
+[2021-09-29T18:32:51.149Z] : [error]: Total execution time: 10s 224ms
+
+[2021-09-29T18:32:51.150Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:38:45.738Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:38:45.812Z] : [success]: Bot started
+
+[2021-09-29T18:38:45.813Z] : [info]: Robot start
+
+[2021-09-29T18:38:54.350Z] : [info]: la imajen esta en 462 y 290
+
+[2021-09-29T18:38:56.136Z] : [error]: Selectors: Error converting value {null} to type 'System.Int32'. Path 'x', line 1, position 38.
+
+[2021-09-29T18:38:56.139Z] : [error]: Total execution time: 10s 322ms
+
+[2021-09-29T18:38:56.141Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:40:03.568Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:40:03.608Z] : [success]: Bot started
+
+[2021-09-29T18:40:03.608Z] : [info]: Robot start
+
+[2021-09-29T18:40:12.187Z] : [info]: la imajen esta en 462 y 290
+
+[2021-09-29T18:40:13.161Z] : [error]: Selectors: Error converting value {null} to type 'System.Int32'. Path 'x', line 1, position 38.
+
+[2021-09-29T18:40:13.167Z] : [error]: Total execution time: 9s 551ms
+
+[2021-09-29T18:40:13.169Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:41:41.464Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:41:41.524Z] : [success]: Bot started
+
+[2021-09-29T18:41:41.524Z] : [info]: Robot start
+
+[2021-09-29T18:41:51.172Z] : [error]: Selectors: Nothing found
+
+[2021-09-29T18:41:51.178Z] : [error]: Total execution time: 9s 647ms
+
+[2021-09-29T18:41:51.180Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:42:36.237Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:42:36.307Z] : [success]: Bot started
+
+[2021-09-29T18:42:36.308Z] : [info]: Robot start
+
+[2021-09-29T18:42:45.163Z] : [info]: la imajen esta en 462 y 290
+
+[2021-09-29T18:42:48.194Z] : [success]: Bot finished successfully, total execution time: 11s 881ms
+
+[2021-09-29T18:42:48.197Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:45:01.678Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:45:07.622Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:45:07.659Z] : [success]: Bot started
+
+[2021-09-29T18:45:07.660Z] : [info]: Robot start
+
+[2021-09-29T18:45:16.380Z] : [info]: la imajen esta en 462 y 290
+
+[2021-09-29T18:45:19.164Z] : [success]: Bot finished successfully, total execution time: 11s 500ms
+
+[2021-09-29T18:45:19.166Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:54:20.089Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:54:20.159Z] : [success]: Bot started
+
+[2021-09-29T18:54:20.160Z] : [info]: Robot start
+
+[2021-09-29T18:54:43.643Z] : [error]: Script Stopped.
+
+[2021-09-29T18:54:43.647Z] : [warn]: Total execution time: 23s 482ms
+
+[2021-09-29T18:54:43.648Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:54:49.496Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:54:49.545Z] : [success]: Bot started
+
+[2021-09-29T18:54:49.546Z] : [info]: Robot start
+
+[2021-09-29T18:55:09.530Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:55:12.633Z] : [error]: Script Stopped.
+
+[2021-09-29T18:55:12.638Z] : [warn]: Total execution time: 23s 86ms
+
+[2021-09-29T18:55:12.640Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:55:16.667Z] : [success]: Robot saved successfully
+

@@ -1,0 +1,109 @@
+
+  ==========================================
+  Studio Pro version: 6.3.2
+  Started at: 4/10/2021 21:40:15
+  ==========================================
+  
+
+[2021-10-04T18:42:21.854Z] : [success]: Robot saved successfully
+
+[2021-10-04T18:42:22.033Z] : [info]: ---------------------------------------------
+
+[2021-10-04T18:42:22.034Z] : [success]: Bot started
+
+[2021-10-04T18:42:22.035Z] : [info]: Robot start
+
+[2021-10-04T18:42:30.897Z] : [info]: <p><a id="_Hlk83632141"></a>Здравствуйте, коллега!</p><p></p><p></p><p>Текст сообщения………….</p><p></p><p></p>
+
+[2021-10-04T18:42:32.873Z] : [info]: someone is there
+
+[2021-10-04T18:42:51.200Z] : [info]: END Loguin
+
+[2021-10-04T18:42:56.127Z] : [info]: END search
+
+[2021-10-04T18:42:59.509Z] : [info]: 1xxx
+
+[2021-10-04T18:42:59.825Z] : [info]: 1231 ; 478
+
+[2021-10-04T18:43:02.621Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-04T18:43:25.016Z] : [info]: take contact details
+
+[2021-10-04T18:43:29.285Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-04T18:43:30.870Z] : [info]: si aclicar
+
+[2021-10-04T18:43:57.025Z] : [error]: Selectors: Nothing found
+
+[2021-10-04T18:43:57.031Z] : [error]: Total execution time: 1m 34s 989ms
+
+[2021-10-04T18:43:57.033Z] : [info]: ---------------------------------------------
+
+[2021-10-04T18:46:55.628Z] : [success]: Robot saved successfully
+
+[2021-10-04T18:46:55.745Z] : [success]: Bot started
+
+[2021-10-04T18:46:55.746Z] : [info]: Robot start
+
+[2021-10-04T18:47:02.366Z] : [info]: <p><a id="_Hlk83632141"></a>Здравствуйте, коллега!</p><p></p><p></p><p>Текст сообщения………….</p><p></p><p></p>
+
+[2021-10-04T18:47:04.394Z] : [info]: someone is there
+
+[2021-10-04T18:47:22.717Z] : [info]: END Loguin
+
+[2021-10-04T18:47:27.596Z] : [info]: END search
+
+[2021-10-04T18:47:31.802Z] : [info]: 1xxx
+
+[2021-10-04T18:47:32.228Z] : [info]: 1231 ; 438
+
+[2021-10-04T18:47:35.020Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-04T18:48:00.973Z] : [info]: take contact details
+
+[2021-10-04T18:48:07.833Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-04T18:48:09.495Z] : [info]: si aclicar
+
+[2021-10-04T18:48:34.223Z] : [error]: Selectors: Nothing found
+
+[2021-10-04T18:48:34.237Z] : [error]: Total execution time: 1m 38s 476ms
+
+[2021-10-04T18:48:34.238Z] : [info]: ---------------------------------------------
+
+[2021-10-04T18:54:06.734Z] : [success]: Robot saved successfully
+
+[2021-10-04T18:54:06.844Z] : [success]: Bot started
+
+[2021-10-04T18:54:06.845Z] : [info]: Robot start
+
+[2021-10-04T18:54:12.952Z] : [error]: Selectors: Nothing found
+
+[2021-10-04T18:54:12.956Z] : [error]: Total execution time: 6s 106ms
+
+[2021-10-04T18:54:12.958Z] : [info]: ---------------------------------------------
+
+[2021-10-04T18:59:10.480Z] : [success]: Robot saved successfully
+
+[2021-10-04T18:59:10.597Z] : [success]: Bot started
+
+[2021-10-04T18:59:10.598Z] : [info]: Robot start
+
+[2021-10-04T18:59:15.201Z] : [success]: Bot finished successfully, total execution time: 4s 599ms
+
+[2021-10-04T18:59:15.203Z] : [info]: ---------------------------------------------
+
+[2021-10-04T19:10:55.924Z] : [success]: Robot saved successfully
+
+[2021-10-04T19:10:56.054Z] : [info]: ---------------------------------------------
+
+[2021-10-04T19:10:56.055Z] : [success]: Bot started
+
+[2021-10-04T19:10:56.057Z] : [info]: Robot start
+
+[2021-10-04T19:11:04.011Z] : [success]: Bot finished successfully, total execution time: 7s 951ms
+
+[2021-10-04T19:11:04.015Z] : [info]: ---------------------------------------------
+
+[2021-10-04T19:44:39.917Z] : [success]: Workflow успешно сохранен
+

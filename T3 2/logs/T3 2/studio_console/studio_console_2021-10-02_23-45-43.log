@@ -1,0 +1,133 @@
+
+  ==========================================
+  Studio Pro version: 6.3.2
+  Started at: 2/10/2021 23:47:17
+  ==========================================
+  
+
+[2021-10-02T20:47:45.406Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:47:45.506Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:47:45.507Z] : [success]: Bot started
+
+[2021-10-02T20:47:45.508Z] : [info]: Robot start
+
+[2021-10-02T20:48:06.650Z] : [error]: An error occured while performing the activity as multiple elements were found for the selector you provided. Please, make sure the selector of the indicated element is unique before interacting with it
+
+[2021-10-02T20:48:06.654Z] : [error]: Total execution time: 21s 141ms
+
+[2021-10-02T20:48:06.656Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:48:29.798Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:48:29.879Z] : [success]: Bot started
+
+[2021-10-02T20:48:29.880Z] : [info]: Robot start
+
+[2021-10-02T20:48:38.012Z] : [info]: someone is there
+
+[2021-10-02T20:48:56.408Z] : [info]: END Loguin
+
+[2021-10-02T20:48:59.530Z] : [info]: END search
+
+[2021-10-02T20:49:04.112Z] : [info]: 1231 ; 438
+
+[2021-10-02T20:49:08.057Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-02T20:49:15.233Z] : [error]: Selectors: Nothing found
+
+[2021-10-02T20:49:15.238Z] : [error]: Total execution time: 45s 352ms
+
+[2021-10-02T20:49:15.240Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:50:18.236Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:50:18.329Z] : [success]: Bot started
+
+[2021-10-02T20:50:18.330Z] : [info]: Robot start
+
+[2021-10-02T20:50:26.583Z] : [info]: someone is there
+
+[2021-10-02T20:50:44.902Z] : [info]: END Loguin
+
+[2021-10-02T20:50:48.051Z] : [info]: END search
+
+[2021-10-02T20:50:50.670Z] : [error]: Selectors: Nothing found
+
+[2021-10-02T20:50:50.678Z] : [error]: Total execution time: 32s 337ms
+
+[2021-10-02T20:50:50.680Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:51:45.301Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:51:45.396Z] : [success]: Bot started
+
+[2021-10-02T20:51:45.397Z] : [info]: Robot start
+
+[2021-10-02T20:51:53.357Z] : [info]: someone is there
+
+[2021-10-02T20:52:11.956Z] : [info]: END Loguin
+
+[2021-10-02T20:52:14.895Z] : [info]: END search
+
+[2021-10-02T20:52:20.810Z] : [info]: 1231 ; 438
+
+[2021-10-02T20:52:23.434Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-02T20:52:35.262Z] : [success]: Bot finished successfully, total execution time: 49s 846ms
+
+[2021-10-02T20:52:35.268Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:59:53.362Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:59:53.457Z] : [success]: Bot started
+
+[2021-10-02T20:59:53.458Z] : [info]: Robot start
+
+[2021-10-02T20:59:59.196Z] : [success]: Bot finished successfully, total execution time: 5s 730ms
+
+[2021-10-02T20:59:59.198Z] : [info]: ---------------------------------------------
+
+[2021-10-02T21:01:19.775Z] : [info]: Internet connection // error
+
+[2021-10-02T21:01:19.841Z] : [success]: Robot saved successfully
+
+[2021-10-02T21:01:19.904Z] : [success]: Bot started
+
+[2021-10-02T21:01:19.905Z] : [info]: Robot start
+
+[2021-10-02T21:01:23.122Z] : [error]: The agent is already running another script.
+
+[2021-10-02T21:01:23.126Z] : [info]: ---------------------------------------------
+
+[2021-10-02T21:01:44.760Z] : [success]: Robot saved successfully
+
+[2021-10-02T21:01:52.192Z] : [success]: Connection to our licenses server is restored
+
+[2021-10-02T21:01:52.256Z] : [success]: Robot saved successfully
+
+[2021-10-02T21:01:52.327Z] : [success]: Bot started
+
+[2021-10-02T21:01:52.328Z] : [info]: Robot start
+
+[2021-10-02T21:02:07.707Z] : [info]: No encontre inagen
+
+[2021-10-02T21:02:24.430Z] : [info]: No encontre inagen
+
+[2021-10-02T21:02:41.296Z] : [info]: No encontre inagen
+
+[2021-10-02T21:02:57.931Z] : [info]: No encontre inagen
+
+[2021-10-02T21:03:14.752Z] : [info]: No encontre inagen
+
+[2021-10-02T21:03:31.667Z] : [info]: No encontre inagen
+
+[2021-10-02T21:03:48.704Z] : [info]: No encontre inagen
+
+[2021-10-02T21:04:04.847Z] : [error]: Script Stopped.
+
+[2021-10-02T21:04:04.852Z] : [info]: ---------------------------------------------
+
+[2021-10-02T21:04:06.849Z] : [success]: Robot saved successfully
+

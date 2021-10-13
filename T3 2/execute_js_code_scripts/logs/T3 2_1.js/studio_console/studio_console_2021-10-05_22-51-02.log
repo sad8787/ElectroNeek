@@ -1,0 +1,2 @@
+[2021-10-05T19:53:30.042Z] : [error]: Uncaught (in promise): t: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5000/api/is-published","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5000/api/is-published: 0 Unknown Error","error":{"isTrusted":true}}
+

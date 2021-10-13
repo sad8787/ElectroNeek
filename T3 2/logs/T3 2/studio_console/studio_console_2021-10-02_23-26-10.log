@@ -1,0 +1,139 @@
+
+  ==========================================
+  Studio Pro version: 6.3.2
+  Started at: 2/10/2021 23:27:04
+  ==========================================
+  
+
+[2021-10-02T20:28:01.487Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:28:01.591Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:28:01.591Z] : [success]: Bot started
+
+[2021-10-02T20:28:01.592Z] : [info]: Robot start
+
+[2021-10-02T20:28:38.628Z] : [error]: An error occured while performing the activity as multiple elements were found for the selector you provided. Please, make sure the selector of the indicated element is unique before interacting with it
+
+[2021-10-02T20:28:38.632Z] : [error]: Total execution time: 37s 35ms
+
+[2021-10-02T20:28:38.657Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:29:17.450Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:29:17.545Z] : [success]: Bot started
+
+[2021-10-02T20:29:17.546Z] : [info]: Robot start
+
+[2021-10-02T20:29:25.971Z] : [info]: someone is there
+
+[2021-10-02T20:30:02.237Z] : [info]: END Loguin
+
+[2021-10-02T20:30:05.514Z] : [info]: END search
+
+[2021-10-02T20:30:08.672Z] : [info]: 1231 ; 485
+
+[2021-10-02T20:30:25.248Z] : [info]: No encontre inagen
+
+[2021-10-02T20:30:42.247Z] : [info]: No encontre inagen
+
+[2021-10-02T20:30:58.119Z] : [info]: No encontre inagen
+
+[2021-10-02T20:31:07.314Z] : [error]: Script Stopped.
+
+[2021-10-02T20:31:07.320Z] : [warn]: Total execution time: 1m 49s 767ms
+
+[2021-10-02T20:31:07.322Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:32:26.733Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:32:29.656Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:32:29.746Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:32:29.746Z] : [success]: Bot started
+
+[2021-10-02T20:32:29.747Z] : [info]: Robot start
+
+[2021-10-02T20:32:38.042Z] : [info]: someone is there
+
+[2021-10-02T20:32:53.133Z] : [error]: Selectors: Nothing found
+
+[2021-10-02T20:32:53.136Z] : [error]: Total execution time: 23s 385ms
+
+[2021-10-02T20:32:53.138Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:33:24.577Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:33:24.657Z] : [success]: Bot started
+
+[2021-10-02T20:33:24.658Z] : [info]: Robot start
+
+[2021-10-02T20:33:30.163Z] : [success]: Bot finished successfully, total execution time: 5s 503ms
+
+[2021-10-02T20:33:30.165Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:33:49.520Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:33:49.604Z] : [success]: Bot started
+
+[2021-10-02T20:33:49.605Z] : [info]: Robot start
+
+[2021-10-02T20:33:55.408Z] : [success]: Bot finished successfully, total execution time: 5s 800ms
+
+[2021-10-02T20:33:55.410Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:34:40.945Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:34:41.018Z] : [success]: Bot started
+
+[2021-10-02T20:34:41.019Z] : [info]: Robot start
+
+[2021-10-02T20:35:11.221Z] : [success]: Bot finished successfully, total execution time: 30s 200ms
+
+[2021-10-02T20:35:11.223Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:37:21.678Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:37:21.770Z] : [success]: Bot started
+
+[2021-10-02T20:37:21.771Z] : [info]: Robot start
+
+[2021-10-02T20:37:27.243Z] : [success]: Bot finished successfully, total execution time: 5s 470ms
+
+[2021-10-02T20:37:27.245Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:40:03.335Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:40:03.418Z] : [success]: Bot started
+
+[2021-10-02T20:40:03.419Z] : [info]: Robot start
+
+[2021-10-02T20:40:09.195Z] : [success]: Bot finished successfully, total execution time: 5s 773ms
+
+[2021-10-02T20:40:09.196Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:43:34.610Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:43:34.749Z] : [success]: Bot started
+
+[2021-10-02T20:43:34.750Z] : [info]: Robot start
+
+[2021-10-02T20:43:54.780Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2021-10-02T20:43:54.784Z] : [error]: Total execution time: 20s 29ms
+
+[2021-10-02T20:43:54.785Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:44:49.174Z] : [success]: Robot saved successfully
+
+[2021-10-02T20:44:49.275Z] : [success]: Bot started
+
+[2021-10-02T20:44:49.276Z] : [info]: Robot start
+
+[2021-10-02T20:44:53.219Z] : [success]: Bot finished successfully, total execution time: 3s 940ms
+
+[2021-10-02T20:44:53.220Z] : [info]: ---------------------------------------------
+
+[2021-10-02T20:45:15.784Z] : [success]: Robot saved successfully
+

@@ -1,0 +1,29 @@
+
+  ==========================================
+  Studio Pro version: 6.3.2
+  Started at: 2/10/2021 22:14:00
+  ==========================================
+  
+
+[2021-10-02T19:18:09.103Z] : [success]: Robot saved successfully
+
+[2021-10-02T19:18:09.220Z] : [info]: ---------------------------------------------
+
+[2021-10-02T19:18:09.221Z] : [success]: Bot started
+
+[2021-10-02T19:18:09.222Z] : [info]: Robot start
+
+[2021-10-02T19:18:29.357Z] : [info]: someone is there
+
+[2021-10-02T19:19:04.736Z] : [info]: END Loguin
+
+[2021-10-02T19:19:07.699Z] : [info]: END search
+
+[2021-10-02T19:19:10.215Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-02T19:20:59.734Z] : [error]: Unknown Error: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5000/api/execute","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5000/api/execute: 0 Unknown Error","error":{"isTrusted":true}}
+
+[2021-10-02T19:20:59.851Z] : [info]: ---------------------------------------------
+
+[2021-10-02T19:21:00.030Z] : [error]: Uncaught (in promise): t: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5000/api/variables?name=element_value&scope=4cc15011-009b-4f28-8410-4c5d450885c1","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5000/api/variables?name=element_value&scope=4cc15011-009b-4f28-8410-4c5d450885c1: 0 Unknown Error","error":{"isTrusted":true}}
+

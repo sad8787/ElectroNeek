@@ -1,0 +1,23 @@
+
+  ==========================================
+  Studio Pro version: 6.5.4
+  Started at: 12/10/2021 23:02:16
+  ==========================================
+  
+
+[2021-10-12T20:02:20.466Z] : [success]: Robot saved successfully
+
+[2021-10-12T20:07:36.905Z] : [success]: Robot saved successfully
+
+[2021-10-12T20:07:37.102Z] : [success]: Bot started
+
+[2021-10-12T20:07:37.102Z] : [info]: Robot start
+
+[2021-10-12T20:07:52.168Z] : [error]: Unable to interact with the element because the specified tab is not opened
+
+[2021-10-12T20:07:52.307Z] : [error]: Total execution time: 15s 65ms
+
+[2021-10-12T20:07:52.310Z] : [info]: ---------------------------------------------
+
+[2021-10-12T20:10:33.013Z] : [success]: Robot saved successfully
+

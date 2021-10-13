@@ -1,0 +1,319 @@
+
+  ==========================================
+  Studio Pro version: 6.0.25
+  Started at: 28/9/2021 20:51:14
+  ==========================================
+  
+
+[2021-09-28T17:57:34.454Z] : [success]: Robot saved successfully
+
+[2021-09-28T17:57:34.480Z] : [info]: ---------------------------------------------
+
+[2021-09-28T17:57:34.481Z] : [success]: Bot started
+
+[2021-09-28T17:57:34.482Z] : [info]: Robot start
+
+[2021-09-28T17:57:38.300Z] : [success]: Bot finished successfully, total execution time: 3s 815ms
+
+[2021-09-28T17:57:38.302Z] : [info]: ---------------------------------------------
+
+[2021-09-28T18:00:00.632Z] : [success]: Robot saved successfully
+
+[2021-09-28T18:00:00.670Z] : [success]: Bot started
+
+[2021-09-28T18:00:00.671Z] : [info]: Robot start
+
+[2021-09-28T18:00:03.282Z] : [success]: Bot finished successfully, total execution time: 2s 605ms
+
+[2021-09-28T18:00:03.284Z] : [info]: ---------------------------------------------
+
+[2021-09-28T18:02:07.252Z] : [success]: Robot saved successfully
+
+[2021-09-28T18:02:07.274Z] : [success]: Bot started
+
+[2021-09-28T18:02:07.275Z] : [info]: Robot start
+
+[2021-09-28T18:02:12.286Z] : [success]: Bot finished successfully, total execution time: 5s 7ms
+
+[2021-09-28T18:02:12.289Z] : [info]: ---------------------------------------------
+
+[2021-09-28T18:07:12.578Z] : [success]: Robot saved successfully
+
+[2021-09-28T18:07:12.602Z] : [success]: Bot started
+
+[2021-09-28T18:07:12.603Z] : [info]: Robot start
+
+[2021-09-28T18:07:30.333Z] : [error]: Selectors: Could not maximize window
+
+
+[2021-09-28T18:07:30.337Z] : [error]: Total execution time: 17s 729ms
+
+[2021-09-28T18:07:30.338Z] : [info]: ---------------------------------------------
+
+[2021-09-28T18:07:56.847Z] : [success]: Robot saved successfully
+
+[2021-09-28T18:07:56.873Z] : [success]: Bot started
+
+[2021-09-28T18:07:56.876Z] : [info]: Robot start
+
+[2021-09-28T18:08:08.286Z] : [success]: Bot finished successfully, total execution time: 11s 408ms
+
+[2021-09-28T18:08:08.288Z] : [info]: ---------------------------------------------
+
+[2021-09-28T18:13:30.454Z] : [info]: Internet connection // error
+
+[2021-09-28T18:13:30.497Z] : [success]: Robot saved successfully
+
+[2021-09-28T18:13:30.532Z] : [success]: Bot started
+
+[2021-09-28T18:13:30.532Z] : [info]: Robot start
+
+[2021-09-28T18:13:35.297Z] : [success]: Bot finished successfully, total execution time: 4s 765ms
+
+[2021-09-28T18:13:35.299Z] : [info]: ---------------------------------------------
+
+[2021-09-28T18:15:59.848Z] : [success]: Connection to our licenses server is restored
+
+[2021-09-28T18:15:59.882Z] : [success]: Robot saved successfully
+
+[2021-09-28T18:15:59.923Z] : [success]: Bot started
+
+[2021-09-28T18:15:59.924Z] : [info]: Robot start
+
+[2021-09-28T18:16:05.130Z] : [info]: undefined undefined 
+
+[2021-09-28T18:16:06.387Z] : [success]: Bot finished successfully, total execution time: 6s 447ms
+
+[2021-09-28T18:16:06.392Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:05:32.021Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:05:32.065Z] : [success]: Bot started
+
+[2021-09-28T19:05:32.066Z] : [info]: Robot start
+
+[2021-09-28T19:05:35.355Z] : [success]: Bot finished successfully, total execution time: 3s 286ms
+
+[2021-09-28T19:05:35.357Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:09:03.742Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:09:03.775Z] : [success]: Bot started
+
+[2021-09-28T19:09:03.775Z] : [info]: Robot start
+
+[2021-09-28T19:09:06.283Z] : [error]: Cannot read property 'c' of undefined
+
+[2021-09-28T19:09:06.288Z] : [error]: Total execution time: 2s 507ms
+
+[2021-09-28T19:09:06.292Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:19:07.613Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:19:07.667Z] : [success]: Bot started
+
+[2021-09-28T19:19:07.668Z] : [info]: Robot start
+
+[2021-09-28T19:19:10.277Z] : [error]: Selectors: "Unexpected sheet name: Sheet1"
+
+
+[2021-09-28T19:19:10.282Z] : [error]: Total execution time: 2s 608ms
+
+[2021-09-28T19:19:10.284Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:22:20.241Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:22:20.262Z] : [success]: Bot started
+
+[2021-09-28T19:22:20.263Z] : [info]: Robot start
+
+[2021-09-28T19:22:22.295Z] : [error]: Selectors: "Unexpected sheet name: Sheet1"
+
+
+[2021-09-28T19:22:22.300Z] : [error]: Total execution time: 2s 31ms
+
+[2021-09-28T19:22:22.301Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:23:06.694Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:23:06.729Z] : [success]: Bot started
+
+[2021-09-28T19:23:06.730Z] : [info]: Robot start
+
+[2021-09-28T19:23:10.004Z] : [error]: Selectors: "Unexpected sheet name: Sheet1"
+
+
+[2021-09-28T19:23:10.012Z] : [error]: Total execution time: 3s 273ms
+
+[2021-09-28T19:23:10.014Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:23:31.620Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:23:31.644Z] : [success]: Bot started
+
+[2021-09-28T19:23:31.645Z] : [info]: Robot start
+
+[2021-09-28T19:23:35.078Z] : [error]: Selectors: "Unexpected sheet name: Sheet1"
+
+
+[2021-09-28T19:23:35.088Z] : [error]: Total execution time: 3s 432ms
+
+[2021-09-28T19:23:35.090Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:25:37.430Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:25:37.466Z] : [success]: Bot started
+
+[2021-09-28T19:25:37.466Z] : [info]: Robot start
+
+[2021-09-28T19:25:41.294Z] : [error]: Cannot read property 'c' of undefined
+
+[2021-09-28T19:25:41.299Z] : [error]: Total execution time: 3s 827ms
+
+[2021-09-28T19:25:41.301Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:26:20.627Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:26:20.657Z] : [success]: Bot started
+
+[2021-09-28T19:26:20.658Z] : [info]: Robot start
+
+[2021-09-28T19:26:22.913Z] : [info]: zheleznyak.a.v@yandex.ru
+
+[2021-09-28T19:26:24.270Z] : [success]: Bot finished successfully, total execution time: 3s 609ms
+
+[2021-09-28T19:26:24.273Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:27:36.825Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:27:36.879Z] : [success]: Bot started
+
+[2021-09-28T19:27:36.879Z] : [info]: Robot start
+
+[2021-09-28T19:27:39.260Z] : [success]: Bot finished successfully, total execution time: 2s 378ms
+
+[2021-09-28T19:27:39.262Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:32:51.874Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:32:51.901Z] : [success]: Bot started
+
+[2021-09-28T19:32:51.902Z] : [info]: Robot start
+
+[2021-09-28T19:33:14.284Z] : [error]: Waiting for at least one element to be located By(css selector, .supernova-navi_dashboard a[data-qa="login"])
+Wait timed out after 15119ms
+
+[2021-09-28T19:33:14.290Z] : [error]: Total execution time: 22s 381ms
+
+[2021-09-28T19:33:14.293Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:34:07.260Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:34:07.287Z] : [success]: Bot started
+
+[2021-09-28T19:34:07.288Z] : [info]: Robot start
+
+[2021-09-28T19:34:29.278Z] : [error]: Waiting for at least one element to be located By(css selector, .supernova-navi_dashboard a[data-qa="login"])
+Wait timed out after 15042ms
+
+[2021-09-28T19:34:29.287Z] : [error]: Total execution time: 21s 990ms
+
+[2021-09-28T19:34:29.289Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:40:11.825Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:40:11.852Z] : [success]: Bot started
+
+[2021-09-28T19:40:11.852Z] : [info]: Robot start
+
+[2021-09-28T19:40:32.328Z] : [error]: chrome not reachable
+  (Session info: chrome=94.0.4606.61)
+
+[2021-09-28T19:40:32.333Z] : [error]: Total execution time: 20s 475ms
+
+[2021-09-28T19:40:32.334Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:45:25.258Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:45:25.294Z] : [success]: Bot started
+
+[2021-09-28T19:45:25.295Z] : [info]: Robot start
+
+[2021-09-28T19:45:52.888Z] : [error]: chrome not reachable
+  (Session info: chrome=94.0.4606.61)
+
+[2021-09-28T19:45:52.894Z] : [error]: Total execution time: 27s 592ms
+
+[2021-09-28T19:45:52.896Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:46:32.920Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:51:04.793Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:51:04.825Z] : [success]: Bot started
+
+[2021-09-28T19:51:04.827Z] : [info]: Robot start
+
+[2021-09-28T19:51:33.332Z] : [error]: Waiting for at least one element to be located By(css selector, [name="login"])
+Wait timed out after 15076ms
+
+[2021-09-28T19:51:33.337Z] : [error]: Total execution time: 28s 504ms
+
+[2021-09-28T19:51:33.338Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:55:45.735Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:55:45.807Z] : [success]: Bot started
+
+[2021-09-28T19:55:45.808Z] : [info]: Robot start
+
+[2021-09-28T19:55:52.360Z] : [error]: Selectors: Nothing found
+
+[2021-09-28T19:55:52.367Z] : [error]: Total execution time: 6s 550ms
+
+[2021-09-28T19:55:52.369Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:56:27.018Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:56:27.084Z] : [success]: Bot started
+
+[2021-09-28T19:56:27.085Z] : [info]: Robot start
+
+[2021-09-28T19:56:36.292Z] : [error]: Selectors: Nothing found
+
+[2021-09-28T19:56:36.298Z] : [error]: Total execution time: 9s 206ms
+
+[2021-09-28T19:56:36.300Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:57:15.436Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:57:15.496Z] : [success]: Bot started
+
+[2021-09-28T19:57:15.497Z] : [info]: Robot start
+
+[2021-09-28T19:57:23.598Z] : [error]: Selectors: Nothing found
+
+[2021-09-28T19:57:23.602Z] : [error]: Total execution time: 8s 100ms
+
+[2021-09-28T19:57:23.603Z] : [info]: ---------------------------------------------
+
+[2021-09-28T19:59:39.327Z] : [success]: Robot saved successfully
+
+[2021-09-28T19:59:39.397Z] : [success]: Bot started
+
+[2021-09-28T19:59:39.398Z] : [info]: Robot start
+
+[2021-09-28T19:59:55.294Z] : [success]: Bot finished successfully, total execution time: 15s 893ms
+
+[2021-09-28T19:59:55.296Z] : [info]: ---------------------------------------------
+
+[2021-09-28T20:05:07.538Z] : [success]: Robot saved successfully
+
+[2021-09-28T20:05:07.593Z] : [success]: Bot started
+
+[2021-09-28T20:05:07.595Z] : [info]: Robot start
+
+[2021-09-28T20:06:44.326Z] : [success]: Bot finished successfully, total execution time: 1m 36s 728ms
+
+[2021-09-28T20:06:44.327Z] : [info]: ---------------------------------------------
+

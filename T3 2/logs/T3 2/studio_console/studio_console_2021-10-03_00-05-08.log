@@ -1,0 +1,65 @@
+
+  ==========================================
+  Studio Pro version: 6.3.2
+  Started at: 3/10/2021 0:05:27
+  ==========================================
+  
+
+[2021-10-02T21:05:36.858Z] : [success]: Robot saved successfully
+
+[2021-10-02T21:05:36.946Z] : [info]: ---------------------------------------------
+
+[2021-10-02T21:05:36.949Z] : [success]: Bot started
+
+[2021-10-02T21:05:36.950Z] : [info]: Robot start
+
+[2021-10-02T21:05:43.815Z] : [info]: someone is there
+
+[2021-10-02T21:06:02.164Z] : [info]: END Loguin
+
+[2021-10-02T21:06:05.363Z] : [info]: END search
+
+[2021-10-02T21:06:09.597Z] : [info]: 1231 ; 445
+
+[2021-10-02T21:06:26.412Z] : [info]: No encontre inagen
+
+[2021-10-02T21:06:42.260Z] : [info]: No encontre inagen
+
+[2021-10-02T21:07:00.694Z] : [error]: Script Stopped.
+
+[2021-10-02T21:07:00.698Z] : [warn]: Total execution time: 1m 23s 743ms
+
+[2021-10-02T21:07:00.700Z] : [info]: ---------------------------------------------
+
+[2021-10-02T21:08:05.676Z] : [success]: Robot saved successfully
+
+[2021-10-02T21:08:16.644Z] : [success]: Robot saved successfully
+
+[2021-10-02T21:08:16.743Z] : [success]: Bot started
+
+[2021-10-02T21:08:16.744Z] : [info]: Robot start
+
+[2021-10-02T21:08:24.994Z] : [info]: someone is there
+
+[2021-10-02T21:08:43.138Z] : [info]: END Loguin
+
+[2021-10-02T21:08:46.224Z] : [info]: END search
+
+[2021-10-02T21:08:52.615Z] : [error]: Selectors: La entrada no es una cadena Base 64 válida porque contiene un carácter que no es Base 64, más de dos caracteres de relleno o un carácter no válido entre los caracteres de relleno. 
+
+[2021-10-02T21:08:52.624Z] : [error]: Total execution time: 35s 869ms
+
+[2021-10-02T21:08:52.626Z] : [info]: ---------------------------------------------
+
+[2021-10-02T21:10:30.082Z] : [success]: Robot saved successfully
+
+[2021-10-02T21:10:30.173Z] : [success]: Bot started
+
+[2021-10-02T21:10:30.174Z] : [info]: Robot start
+
+[2021-10-02T21:10:38.572Z] : [info]: someone is there
+
+[2021-10-02T21:10:56.852Z] : [info]: END Loguin
+
+[2021-10-02T21:10:59.929Z] : [info]: END search
+

@@ -1,0 +1,143 @@
+
+  ==========================================
+  Studio Pro version: 6.0.25
+  Started at: 29/9/2021 21:03:10
+  ==========================================
+  
+
+[2021-09-29T18:05:33.583Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:05:33.648Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:05:33.649Z] : [success]: Bot started
+
+[2021-09-29T18:05:33.651Z] : [info]: Robot start
+
+[2021-09-29T18:05:39.079Z] : [info]: hay usuario loguiado
+
+[2021-09-29T18:05:41.069Z] : [success]: Bot finished successfully, total execution time: 7s 409ms
+
+[2021-09-29T18:05:41.076Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:06:03.335Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:06:03.432Z] : [success]: Bot started
+
+[2021-09-29T18:06:03.433Z] : [info]: Robot start
+
+[2021-09-29T18:06:13.152Z] : [success]: Bot finished successfully, total execution time: 9s 715ms
+
+[2021-09-29T18:06:13.154Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:07:30.145Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:07:30.190Z] : [success]: Bot started
+
+[2021-09-29T18:07:30.191Z] : [info]: Robot start
+
+[2021-09-29T18:07:42.194Z] : [success]: Bot finished successfully, total execution time: 11s 999ms
+
+[2021-09-29T18:07:42.196Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:11:14.099Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:11:14.138Z] : [success]: Bot started
+
+[2021-09-29T18:11:14.139Z] : [info]: Robot start
+
+[2021-09-29T18:11:22.290Z] : [error]: Selectors: Nothing found
+
+[2021-09-29T18:11:22.362Z] : [error]: Total execution time: 8s 149ms
+
+[2021-09-29T18:11:22.364Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:11:55.895Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:11:55.942Z] : [success]: Bot started
+
+[2021-09-29T18:11:55.943Z] : [info]: Robot start
+
+[2021-09-29T18:12:05.165Z] : [error]: Selectors: Nothing found
+
+[2021-09-29T18:12:05.170Z] : [error]: Total execution time: 9s 222ms
+
+[2021-09-29T18:12:05.172Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:13:59.970Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:14:00.017Z] : [success]: Bot started
+
+[2021-09-29T18:14:00.018Z] : [info]: Robot start
+
+[2021-09-29T18:14:08.460Z] : [error]: Selectors: Error converting value {null} to type 'System.Int32'. Path 'x', line 1, position 38.
+
+[2021-09-29T18:14:08.468Z] : [error]: Total execution time: 8s 440ms
+
+[2021-09-29T18:14:08.470Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:17:33.113Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:17:33.164Z] : [success]: Bot started
+
+[2021-09-29T18:17:33.165Z] : [info]: Robot start
+
+[2021-09-29T18:17:43.083Z] : [error]: Selectors: Nothing found
+
+[2021-09-29T18:17:43.088Z] : [error]: Total execution time: 9s 917ms
+
+[2021-09-29T18:17:43.090Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:19:26.602Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:19:26.711Z] : [success]: Bot started
+
+[2021-09-29T18:19:26.712Z] : [info]: Robot start
+
+[2021-09-29T18:19:34.588Z] : [info]: encontre imajen
+
+[2021-09-29T18:19:36.133Z] : [error]: Selectors: Error converting value {null} to type 'System.Int32'. Path 'x', line 1, position 38.
+
+[2021-09-29T18:19:36.138Z] : [error]: Total execution time: 9s 420ms
+
+[2021-09-29T18:19:36.139Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:21:04.191Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:21:04.232Z] : [success]: Bot started
+
+[2021-09-29T18:21:04.234Z] : [info]: Robot start
+
+[2021-09-29T18:21:12.244Z] : [error]: Selectors: Error converting value {null} to type 'System.Int32'. Path 'x', line 1, position 38.
+
+[2021-09-29T18:21:12.250Z] : [error]: Total execution time: 8s 7ms
+
+[2021-09-29T18:21:12.252Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:23:47.642Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:23:47.698Z] : [success]: Bot started
+
+[2021-09-29T18:23:47.699Z] : [info]: Robot start
+
+[2021-09-29T18:23:55.958Z] : [info]: la imajen esta en 462 y 290
+
+[2021-09-29T18:23:57.159Z] : [success]: Bot finished successfully, total execution time: 9s 457ms
+
+[2021-09-29T18:23:57.161Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:26:15.350Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:26:15.388Z] : [success]: Bot started
+
+[2021-09-29T18:26:15.389Z] : [info]: Robot start
+
+[2021-09-29T18:27:09.647Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2021-09-29T18:27:09.651Z] : [error]: Total execution time: 54s 258ms
+
+[2021-09-29T18:27:09.652Z] : [info]: ---------------------------------------------
+
+[2021-09-29T18:27:36.799Z] : [success]: Robot saved successfully
+
+[2021-09-29T18:27:39.553Z] : [success]: Robot saved successfully
+

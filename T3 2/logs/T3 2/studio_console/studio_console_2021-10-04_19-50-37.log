@@ -1,0 +1,95 @@
+
+  ==========================================
+  Studio Pro version: 6.3.2
+  Started at: 4/10/2021 19:52:42
+  ==========================================
+  
+
+[2021-10-04T16:55:07.228Z] : [success]: Robot saved successfully
+
+[2021-10-04T16:55:07.342Z] : [info]: ---------------------------------------------
+
+[2021-10-04T16:55:07.343Z] : [success]: Bot started
+
+[2021-10-04T16:55:07.344Z] : [info]: Robot start
+
+[2021-10-04T16:55:30.730Z] : [error]: An error occured while performing the activity as multiple elements were found for the selector you provided. Please, make sure the selector of the indicated element is unique before interacting with it
+
+[2021-10-04T16:55:30.734Z] : [error]: Total execution time: 23s 385ms
+
+[2021-10-04T16:55:30.736Z] : [info]: ---------------------------------------------
+
+[2021-10-04T16:55:38.177Z] : [success]: Robot saved successfully
+
+[2021-10-04T16:55:38.285Z] : [info]: ---------------------------------------------
+
+[2021-10-04T16:55:38.286Z] : [success]: Bot started
+
+[2021-10-04T16:55:38.287Z] : [info]: Robot start
+
+[2021-10-04T16:55:48.795Z] : [info]: <p><a id="_Hlk83632141"></a>Здравствуйте, коллега!</p><p></p><p></p><p>Текст сообщения………….</p><p></p><p></p>
+
+[2021-10-04T16:55:50.262Z] : [success]: Bot finished successfully, total execution time: 11s 971ms
+
+[2021-10-04T16:55:50.263Z] : [info]: ---------------------------------------------
+
+[2021-10-04T16:56:25.169Z] : [success]: Robot saved successfully
+
+[2021-10-04T16:56:25.285Z] : [success]: Bot started
+
+[2021-10-04T16:56:25.286Z] : [info]: Robot start
+
+[2021-10-04T16:56:31.717Z] : [info]: <p>Hola es a letter</p>
+
+[2021-10-04T16:56:33.430Z] : [success]: Bot finished successfully, total execution time: 8s 139ms
+
+[2021-10-04T16:56:33.432Z] : [info]: ---------------------------------------------
+
+[2021-10-04T17:01:40.645Z] : [success]: Robot saved successfully
+
+[2021-10-04T17:01:40.746Z] : [info]: ---------------------------------------------
+
+[2021-10-04T17:01:40.747Z] : [success]: Bot started
+
+[2021-10-04T17:01:40.747Z] : [info]: Robot start
+
+[2021-10-04T17:01:45.512Z] : [success]: Bot finished successfully, total execution time: 4s 762ms
+
+[2021-10-04T17:01:45.513Z] : [info]: ---------------------------------------------
+
+[2021-10-04T17:41:17.432Z] : [success]: Robot saved successfully
+
+[2021-10-04T17:41:17.541Z] : [success]: Bot started
+
+[2021-10-04T17:41:17.542Z] : [info]: Robot start
+
+[2021-10-04T17:41:25.945Z] : [error]: Selectors: Nothing found
+
+[2021-10-04T17:41:25.950Z] : [error]: Total execution time: 8s 401ms
+
+[2021-10-04T17:41:25.952Z] : [info]: ---------------------------------------------
+
+[2021-10-04T17:44:52.463Z] : [success]: Robot saved successfully
+
+[2021-10-04T17:44:52.656Z] : [success]: Bot started
+
+[2021-10-04T17:44:52.657Z] : [info]: Robot start
+
+[2021-10-04T17:44:56.263Z] : [success]: Bot finished successfully, total execution time: 3s 602ms
+
+[2021-10-04T17:44:56.265Z] : [info]: ---------------------------------------------
+
+[2021-10-04T17:49:29.023Z] : [success]: Robot saved successfully
+
+[2021-10-04T17:49:29.147Z] : [success]: Bot started
+
+[2021-10-04T17:49:29.148Z] : [info]: Robot start
+
+[2021-10-04T17:49:33.263Z] : [error]: Selectors: Nothing found
+
+[2021-10-04T17:49:33.267Z] : [error]: Total execution time: 4s 113ms
+
+[2021-10-04T17:49:33.269Z] : [info]: ---------------------------------------------
+
+[2021-10-04T17:52:21.832Z] : [success]: Robot saved successfully
+

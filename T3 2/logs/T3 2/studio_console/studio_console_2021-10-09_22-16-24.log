@@ -1,0 +1,471 @@
+
+  ==========================================
+  Studio Pro version: 6.3.2
+  Started at: 9/10/2021 22:17:05
+  ==========================================
+  
+
+[2021-10-09T19:17:18.530Z] : [success]: Robot saved successfully
+
+[2021-10-09T19:17:18.681Z] : [info]: ---------------------------------------------
+
+[2021-10-09T19:17:18.682Z] : [success]: Bot started
+
+[2021-10-09T19:17:18.683Z] : [info]: Robot start
+
+[2021-10-09T19:17:21.243Z] : [info]: <p>Добрый день,</p><p></p><p>Меня зовут Садиэль Годалес. </p><p></p><p>На сайте hh.ru меня заинтересовала вакансия Специалист по IT, размещённая Вашей компанией.</p><p>Я получил высшее образование в г. Гавана (Куба) и работал программистом у поставщика программного обеспечения. Имею опыт работы с клиентами, занимался защитой информации, управлял базами данных. Знаком со стандартными алгоритмами и структурами данных, немного с Linux. Уверенно программирую на языках C#, SQL. Только что закончил курс по разработке мобильных приложений на Android.</p><p>Владею испанским (родной), русским и английским языками. Люблю свою профессию и не перестаю самосовершенствоваться.</p><p>Больше информации обо мне Вы можете прочитать в резюме. Готов ответить на Ваши вопросы при личной встрече или по скайпу. При необходимости готов выполнить тестовое задание.</p><p>Вы можете связаться со мной по телефону 8 916 257 72 33, WhatsApp +7 963 7169740 или по электронной почте, sadielgodales@gmail.com.</p><p>https://github.com/sad8787/C-repo</p><p>https://github.com/sad8787/Java</p><p></p>
+
+[2021-10-09T19:17:43.744Z] : [info]: END Loguin
+
+[2021-10-09T19:17:50.089Z] : [info]: END search
+
+[2021-10-09T19:18:06.003Z] : [error]: Selectors: Nothing found
+
+[2021-10-09T19:18:06.018Z] : [error]: Total execution time: 47s 319ms
+
+[2021-10-09T19:18:06.022Z] : [info]: ---------------------------------------------
+
+[2021-10-09T19:19:44.963Z] : [success]: Robot saved successfully
+
+[2021-10-09T19:19:48.060Z] : [success]: Robot saved successfully
+
+[2021-10-09T19:19:48.163Z] : [success]: Bot started
+
+[2021-10-09T19:19:48.164Z] : [info]: Robot start
+
+[2021-10-09T19:19:50.876Z] : [info]: <p>Добрый день,</p><p></p><p>Меня зовут Садиэль Годалес. </p><p></p><p>На сайте hh.ru меня заинтересовала вакансия Специалист по IT, размещённая Вашей компанией.</p><p>Я получил высшее образование в г. Гавана (Куба) и работал программистом у поставщика программного обеспечения. Имею опыт работы с клиентами, занимался защитой информации, управлял базами данных. Знаком со стандартными алгоритмами и структурами данных, немного с Linux. Уверенно программирую на языках C#, SQL. Только что закончил курс по разработке мобильных приложений на Android.</p><p>Владею испанским (родной), русским и английским языками. Люблю свою профессию и не перестаю самосовершенствоваться.</p><p>Больше информации обо мне Вы можете прочитать в резюме. Готов ответить на Ваши вопросы при личной встрече или по скайпу. При необходимости готов выполнить тестовое задание.</p><p>Вы можете связаться со мной по телефону 8 916 257 72 33, WhatsApp +7 963 7169740 или по электронной почте, sadielgodales@gmail.com.</p><p>https://github.com/sad8787/C-repo</p><p>https://github.com/sad8787/Java</p><p></p>
+
+[2021-10-09T19:19:57.578Z] : [info]: someone is there
+
+[2021-10-09T19:20:20.846Z] : [info]: END Loguin
+
+[2021-10-09T19:20:25.797Z] : [info]: END search
+
+[2021-10-09T19:20:36.330Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:20:38.080Z] : [info]: si aclicar
+
+[2021-10-09T19:21:01.516Z] : [info]: END search
+
+[2021-10-09T19:21:10.073Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:21:11.718Z] : [info]: si aclicar
+
+[2021-10-09T19:21:34.834Z] : [info]: END search
+
+[2021-10-09T19:21:40.997Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T19:22:01.729Z] : [info]: take contact details
+
+[2021-10-09T19:22:12.676Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:22:14.228Z] : [info]: si aclicar
+
+[2021-10-09T19:22:38.271Z] : [info]: END search
+
+[2021-10-09T19:22:45.551Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T19:23:02.625Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:23:04.222Z] : [info]: si aclicar
+
+[2021-10-09T19:23:29.803Z] : [info]: END search
+
+[2021-10-09T19:23:37.375Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:23:39.066Z] : [info]: si aclicar
+
+[2021-10-09T19:24:00.592Z] : [info]: END search
+
+[2021-10-09T19:24:07.902Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T19:24:25.878Z] : [info]: take contact details
+
+[2021-10-09T19:24:30.409Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:24:32.030Z] : [info]: si aclicar
+
+[2021-10-09T19:24:55.753Z] : [info]: END search
+
+[2021-10-09T19:25:03.419Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:25:05.214Z] : [info]: si aclicar
+
+[2021-10-09T19:25:29.793Z] : [info]: END search
+
+[2021-10-09T19:25:40.344Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:25:42.018Z] : [info]: si aclicar
+
+[2021-10-09T19:26:09.599Z] : [info]: END search
+
+[2021-10-09T19:26:31.186Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T19:26:59.208Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:27:00.908Z] : [info]: si aclicar
+
+[2021-10-09T19:27:24.202Z] : [info]: END search
+
+[2021-10-09T19:27:31.298Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T19:27:58.715Z] : [info]: take contact details
+
+[2021-10-09T19:28:04.423Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:28:06.077Z] : [info]: si aclicar
+
+[2021-10-09T19:28:30.031Z] : [info]: END search
+
+[2021-10-09T19:28:36.200Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T19:29:10.612Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:29:12.309Z] : [info]: si aclicar
+
+[2021-10-09T19:29:37.951Z] : [info]: END search
+
+[2021-10-09T19:29:46.681Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:29:48.346Z] : [info]: si aclicar
+
+[2021-10-09T19:30:12.622Z] : [info]: END search
+
+[2021-10-09T19:30:20.290Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:30:21.954Z] : [info]: si aclicar
+
+[2021-10-09T19:30:45.532Z] : [info]: END search
+
+[2021-10-09T19:30:53.257Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T19:31:18.542Z] : [info]: take contact details
+
+[2021-10-09T19:31:24.444Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:31:26.093Z] : [info]: si aclicar
+
+[2021-10-09T19:31:49.031Z] : [info]: END search
+
+[2021-10-09T19:31:57.697Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:31:59.555Z] : [info]: si aclicar
+
+[2021-10-09T19:32:24.149Z] : [info]: END search
+
+[2021-10-09T19:32:30.775Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T19:32:49.467Z] : [info]: take contact details
+
+[2021-10-09T19:33:00.812Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:33:02.589Z] : [info]: si aclicar
+
+[2021-10-09T19:33:25.557Z] : [info]: END search
+
+[2021-10-09T19:33:34.105Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T19:33:58.799Z] : [info]: take contact details
+
+[2021-10-09T19:34:03.277Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:34:04.971Z] : [info]: si aclicar
+
+[2021-10-09T19:34:28.841Z] : [info]: END search
+
+[2021-10-09T19:35:10.913Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T19:35:45.228Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:35:46.976Z] : [info]: si aclicar
+
+[2021-10-09T19:36:09.815Z] : [info]: END search
+
+[2021-10-09T19:36:19.936Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:36:21.607Z] : [info]: si aclicar
+
+[2021-10-09T19:36:44.516Z] : [info]: END search
+
+[2021-10-09T19:36:51.985Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:36:53.611Z] : [info]: si aclicar
+
+[2021-10-09T19:37:19.017Z] : [info]: END search
+
+[2021-10-09T19:37:26.671Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:37:28.638Z] : [info]: si aclicar
+
+[2021-10-09T19:37:53.312Z] : [info]: END search
+
+[2021-10-09T19:38:01.005Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:38:03.041Z] : [info]: si aclicar
+
+[2021-10-09T19:38:26.351Z] : [info]: END search
+
+[2021-10-09T19:56:53.834Z] : [error]: Script Stopped.
+
+[2021-10-09T19:56:53.837Z] : [warn]: Total execution time: 37m 5s 669ms
+
+[2021-10-09T19:56:53.839Z] : [info]: ---------------------------------------------
+
+[2021-10-09T19:58:38.620Z] : [success]: Robot saved successfully
+
+[2021-10-09T19:58:38.742Z] : [success]: Bot started
+
+[2021-10-09T19:58:38.743Z] : [info]: Robot start
+
+[2021-10-09T19:58:44.807Z] : [info]: <p>Добрый день,</p><p></p><p>Меня зовут Садиэль Годалес. </p><p></p><p>На сайте hh.ru меня заинтересовала вакансия Специалист по IT, размещённая Вашей компанией.</p><p>Я получил высшее образование в г. Гавана (Куба) и работал программистом у поставщика программного обеспечения. Имею опыт работы с клиентами, занимался защитой информации, управлял базами данных. Знаком со стандартными алгоритмами и структурами данных, немного с Linux. Уверенно программирую на языках C#, SQL. Только что закончил курс по разработке мобильных приложений на Android.</p><p>Владею испанским (родной), русским и английским языками. Люблю свою профессию и не перестаю самосовершенствоваться.</p><p>Больше информации обо мне Вы можете прочитать в резюме. Готов ответить на Ваши вопросы при личной встрече или по скайпу. При необходимости готов выполнить тестовое задание.</p><p>Вы можете связаться со мной по телефону 8 916 257 72 33, WhatsApp +7 963 7169740 или по электронной почте, sadielgodales@gmail.com.</p><p>https://github.com/sad8787/C-repo</p><p>https://github.com/sad8787/Java</p><p></p>
+
+[2021-10-09T19:58:51.535Z] : [info]: someone is there
+
+[2021-10-09T19:59:14.822Z] : [info]: END Loguin
+
+[2021-10-09T19:59:19.547Z] : [info]: END search
+
+[2021-10-09T19:59:25.042Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T19:59:53.520Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T19:59:55.218Z] : [info]: si aclicar
+
+[2021-10-09T20:00:18.680Z] : [info]: END search
+
+[2021-10-09T20:00:59.513Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:01:14.637Z] : [info]: take contact details
+
+[2021-10-09T20:01:24.725Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:01:26.396Z] : [info]: si aclicar
+
+[2021-10-09T20:01:50.535Z] : [info]: END search
+
+[2021-10-09T20:01:57.116Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:02:39.332Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:02:41.056Z] : [info]: si aclicar
+
+[2021-10-09T20:03:03.667Z] : [info]: END search
+
+[2021-10-09T20:03:10.263Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:03:25.471Z] : [info]: no aclicar porque Es examen
+
+[2021-10-09T20:03:43.074Z] : [info]: END search
+
+[2021-10-09T20:03:48.433Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:04:17.252Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:04:19.058Z] : [info]: si aclicar
+
+[2021-10-09T20:04:42.988Z] : [info]: END search
+
+[2021-10-09T20:04:50.547Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:04:52.192Z] : [info]: si aclicar
+
+[2021-10-09T20:05:15.165Z] : [info]: END search
+
+[2021-10-09T20:05:20.453Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:05:44.390Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:05:46.055Z] : [info]: si aclicar
+
+[2021-10-09T20:06:09.652Z] : [info]: END search
+
+[2021-10-09T20:06:15.788Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:06:40.914Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:06:56.836Z] : [info]: no aclicar porque Es examen
+
+[2021-10-09T20:07:18.427Z] : [info]: END search
+
+[2021-10-09T20:07:25.064Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:07:51.017Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:08:07.071Z] : [info]: no aclicar porque Es examen
+
+[2021-10-09T20:08:27.037Z] : [info]: END search
+
+[2021-10-09T20:08:32.370Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:08:58.186Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:09:14.091Z] : [info]: no aclicar porque Es examen
+
+[2021-10-09T20:09:35.525Z] : [info]: END search
+
+[2021-10-09T20:09:42.942Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:09:44.561Z] : [info]: si aclicar
+
+[2021-10-09T20:10:07.418Z] : [info]: END search
+
+[2021-10-09T20:10:16.091Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:10:17.831Z] : [info]: si aclicar
+
+[2021-10-09T20:10:41.195Z] : [info]: END search
+
+[2021-10-09T20:10:47.827Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:10:49.609Z] : [info]: si aclicar
+
+[2021-10-09T20:11:13.239Z] : [info]: END search
+
+[2021-10-09T20:11:22.536Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:11:24.253Z] : [info]: si aclicar
+
+[2021-10-09T20:11:47.413Z] : [info]: END search
+
+[2021-10-09T20:11:51.732Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:12:17.670Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:12:19.353Z] : [info]: si aclicar
+
+[2021-10-09T20:12:43.645Z] : [info]: END search
+
+[2021-10-09T20:13:26.361Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:13:51.420Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:14:07.645Z] : [info]: no aclicar porque Es examen
+
+[2021-10-09T20:14:28.927Z] : [info]: END search
+
+[2021-10-09T20:14:34.096Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:14:58.998Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:15:15.175Z] : [info]: no aclicar porque Es examen
+
+[2021-10-09T20:15:35.110Z] : [info]: END search
+
+[2021-10-09T20:15:44.531Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:15:46.227Z] : [info]: si aclicar
+
+[2021-10-09T20:16:09.375Z] : [info]: END search
+
+[2021-10-09T20:16:13.956Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:16:42.320Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:16:58.442Z] : [info]: no aclicar porque Es examen
+
+[2021-10-09T20:17:18.288Z] : [info]: END search
+
+[2021-10-09T20:17:25.719Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:17:27.400Z] : [info]: si aclicar
+
+[2021-10-09T20:17:50.599Z] : [info]: END search
+
+[2021-10-09T20:17:56.186Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:17:58.446Z] : [info]: si aclicar
+
+[2021-10-09T20:18:21.981Z] : [info]: END search
+
+[2021-10-09T20:18:28.277Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:18:44.520Z] : [info]: take contact details
+
+[2021-10-09T20:18:55.367Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:18:57.039Z] : [info]: si aclicar
+
+[2021-10-09T20:19:21.515Z] : [info]: END search
+
+[2021-10-09T20:19:28.917Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:20:00.487Z] : [info]: take contact details
+
+[2021-10-09T20:20:11.384Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:20:13.030Z] : [info]: si aclicar
+
+[2021-10-09T20:20:35.827Z] : [info]: END search
+
+[2021-10-09T20:20:40.935Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:21:16.772Z] : [info]: take contact details
+
+[2021-10-09T20:21:30.337Z] : [info]: look for other offers
+
+[2021-10-09T20:21:35.584Z] : [info]: END search
+
+[2021-10-09T20:21:43.197Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:21:45.060Z] : [info]: si aclicar
+
+[2021-10-09T20:22:07.980Z] : [info]: END search
+
+[2021-10-09T20:22:13.255Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:22:59.691Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:23:01.416Z] : [info]: si aclicar
+
+[2021-10-09T20:23:25.276Z] : [info]: END search
+
+[2021-10-09T20:23:31.842Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:23:33.505Z] : [info]: si aclicar
+
+[2021-10-09T20:23:56.552Z] : [info]: END search
+
+[2021-10-09T20:24:00.557Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:24:21.868Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:24:23.540Z] : [info]: si aclicar
+
+[2021-10-09T20:24:48.679Z] : [info]: END search
+
+[2021-10-09T20:24:56.247Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:24:57.960Z] : [info]: si aclicar
+
+[2021-10-09T20:25:20.999Z] : [info]: END search
+
+[2021-10-09T20:25:25.431Z] : [info]: Una propuesta fue seleccionada
+
+[2021-10-09T20:26:36.275Z] : [info]: choose Summary. Send cover letter
+
+[2021-10-09T20:26:52.458Z] : [info]: no aclicar porque Es examen
+
+[2021-10-09T20:27:08.486Z] : [error]: Selectors: Nothing found
+
+[2021-10-09T20:27:08.494Z] : [error]: Total execution time: 28m 29s 742ms
+
+[2021-10-09T20:27:08.496Z] : [info]: ---------------------------------------------
+
+[2021-10-09T20:34:23.097Z] : [success]: Robot saved successfully
+
+[2021-10-09T20:35:41.688Z] : [success]: Robot saved successfully
+
+[2021-10-09T20:35:45.272Z] : [success]: Robot saved successfully
+
+[2021-10-09T20:35:45.388Z] : [success]: Bot started
+
+[2021-10-09T20:35:45.389Z] : [info]: Robot start
+
+[2021-10-09T20:35:54.246Z] : [error]: Selectors: Nothing found
+
+[2021-10-09T20:35:54.251Z] : [error]: Total execution time: 8s 855ms
+
+[2021-10-09T20:35:54.253Z] : [info]: ---------------------------------------------
+
+[2021-10-09T20:47:48.378Z] : [success]: Robot saved successfully
+

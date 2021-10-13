@@ -1,0 +1,33 @@
+
+  ==========================================
+  Studio Pro version: 6.3.2
+  Started at: 9/10/2021 23:48:16
+  ==========================================
+  
+
+[2021-10-09T20:48:37.667Z] : [success]: Robot saved successfully
+
+[2021-10-09T20:48:37.826Z] : [info]: ---------------------------------------------
+
+[2021-10-09T20:48:37.826Z] : [success]: Bot started
+
+[2021-10-09T20:48:37.827Z] : [info]: Robot start
+
+[2021-10-09T20:48:49.501Z] : [error]: Selectors: Nothing found
+
+[2021-10-09T20:48:49.541Z] : [error]: Total execution time: 11s 671ms
+
+[2021-10-09T20:48:49.552Z] : [info]: ---------------------------------------------
+
+[2021-10-09T20:49:04.183Z] : [success]: Robot saved successfully
+
+[2021-10-09T20:49:04.333Z] : [success]: Bot started
+
+[2021-10-09T20:49:04.333Z] : [info]: Robot start
+
+[2021-10-09T20:49:08.365Z] : [error]: The agent is already running another script.
+
+[2021-10-09T20:49:08.370Z] : [info]: ---------------------------------------------
+
+[2021-10-09T20:49:15.232Z] : [success]: Robot saved successfully
+

@@ -1,0 +1,547 @@
+
+  ==========================================
+  Studio Pro version: 6.0.25
+  Started at: 30/9/2021 22:33:05
+  ==========================================
+  
+
+[2021-09-30T19:34:09.013Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:34:09.111Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:34:09.111Z] : [success]: Bot started
+
+[2021-09-30T19:34:09.112Z] : [info]: Robot start
+
+[2021-09-30T19:34:15.918Z] : [info]: someone is there
+
+[2021-09-30T19:34:20.038Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T19:34:20.052Z] : [error]: Total execution time: 10s 925ms
+
+[2021-09-30T19:34:20.054Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:35:08.849Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:35:08.921Z] : [success]: Bot started
+
+[2021-09-30T19:35:08.922Z] : [info]: Robot start
+
+[2021-09-30T19:35:15.917Z] : [info]: someone is there
+
+[2021-09-30T19:35:18.485Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T19:35:18.489Z] : [error]: Total execution time: 9s 562ms
+
+[2021-09-30T19:35:18.491Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:35:50.408Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:35:50.488Z] : [success]: Bot started
+
+[2021-09-30T19:35:50.489Z] : [info]: Robot start
+
+[2021-09-30T19:35:58.531Z] : [info]: someone is there
+
+[2021-09-30T19:36:01.870Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T19:36:01.914Z] : [error]: Total execution time: 11s 380ms
+
+[2021-09-30T19:36:01.915Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:37:16.912Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:37:16.977Z] : [success]: Bot started
+
+[2021-09-30T19:37:16.978Z] : [info]: Robot start
+
+[2021-09-30T19:37:23.845Z] : [info]: someone is there
+
+[2021-09-30T19:37:36.492Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-30T19:37:37.494Z] : [info]: 674 235
+
+[2021-09-30T19:37:41.685Z] : [success]: Bot finished successfully, total execution time: 24s 673ms
+
+[2021-09-30T19:37:41.686Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:41:16.939Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:41:17.015Z] : [success]: Bot started
+
+[2021-09-30T19:41:17.016Z] : [info]: Robot start
+
+[2021-09-30T19:41:23.679Z] : [success]: Bot finished successfully, total execution time: 6s 648ms
+
+[2021-09-30T19:41:23.682Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:42:30.152Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:42:30.231Z] : [success]: Bot started
+
+[2021-09-30T19:42:30.232Z] : [info]: Robot start
+
+[2021-09-30T19:42:39.348Z] : [info]: someone is there
+
+[2021-09-30T19:42:42.887Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T19:42:42.908Z] : [error]: Total execution time: 12s 649ms
+
+[2021-09-30T19:42:42.975Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:43:56.763Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:43:56.823Z] : [success]: Bot started
+
+[2021-09-30T19:43:56.823Z] : [info]: Robot start
+
+[2021-09-30T19:44:03.660Z] : [info]: someone is there
+
+[2021-09-30T19:44:09.563Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T19:44:09.574Z] : [error]: Total execution time: 12s 739ms
+
+[2021-09-30T19:44:09.576Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:46:23.271Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:46:23.371Z] : [success]: Bot started
+
+[2021-09-30T19:46:23.371Z] : [info]: Robot start
+
+[2021-09-30T19:46:40.197Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-30T19:46:41.182Z] : [info]: 674 235
+
+[2021-09-30T19:46:44.257Z] : [success]: Bot finished successfully, total execution time: 20s 859ms
+
+[2021-09-30T19:46:44.263Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:46:58.291Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:46:58.350Z] : [success]: Bot started
+
+[2021-09-30T19:46:58.351Z] : [info]: Robot start
+
+[2021-09-30T19:47:05.459Z] : [info]: someone is there
+
+[2021-09-30T19:47:12.617Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T19:47:12.623Z] : [error]: Total execution time: 14s 265ms
+
+[2021-09-30T19:47:12.625Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:48:33.121Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:48:33.171Z] : [success]: Bot started
+
+[2021-09-30T19:48:33.171Z] : [info]: Robot start
+
+[2021-09-30T19:48:40.410Z] : [info]: someone is there
+
+[2021-09-30T19:48:47.542Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T19:48:47.547Z] : [error]: Total execution time: 14s 370ms
+
+[2021-09-30T19:48:47.549Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:50:06.577Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:50:06.652Z] : [success]: Bot started
+
+[2021-09-30T19:50:06.653Z] : [info]: Robot start
+
+[2021-09-30T19:50:17.017Z] : [success]: Bot finished successfully, total execution time: 10s 358ms
+
+[2021-09-30T19:50:17.046Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:50:42.748Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:50:42.791Z] : [success]: Bot started
+
+[2021-09-30T19:50:42.792Z] : [info]: Robot start
+
+[2021-09-30T19:50:49.355Z] : [info]: someone is there
+
+[2021-09-30T19:50:55.431Z] : [success]: Bot finished successfully, total execution time: 12s 637ms
+
+[2021-09-30T19:50:55.433Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:51:22.162Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:51:22.236Z] : [success]: Bot started
+
+[2021-09-30T19:51:22.237Z] : [info]: Robot start
+
+[2021-09-30T19:51:39.935Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-30T19:51:40.910Z] : [info]: 674 235
+
+[2021-09-30T19:51:43.509Z] : [success]: Bot finished successfully, total execution time: 21s 264ms
+
+[2021-09-30T19:51:43.513Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:51:54.978Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:51:55.038Z] : [success]: Bot started
+
+[2021-09-30T19:51:55.039Z] : [info]: Robot start
+
+[2021-09-30T19:52:02.035Z] : [info]: someone is there
+
+[2021-09-30T19:52:15.506Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-30T19:52:17.067Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T19:52:17.097Z] : [error]: Total execution time: 22s 25ms
+
+[2021-09-30T19:52:17.099Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:52:49.786Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:52:49.860Z] : [success]: Bot started
+
+[2021-09-30T19:52:49.861Z] : [info]: Robot start
+
+[2021-09-30T19:52:57.116Z] : [info]: someone is there
+
+[2021-09-30T19:53:04.477Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T19:53:04.482Z] : [error]: Total execution time: 14s 615ms
+
+[2021-09-30T19:53:04.484Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:54:40.090Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:54:40.169Z] : [success]: Bot started
+
+[2021-09-30T19:54:40.170Z] : [info]: Robot start
+
+[2021-09-30T19:54:47.382Z] : [info]: someone is there
+
+[2021-09-30T19:55:01.319Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-30T19:55:02.234Z] : [info]: 674 235
+
+[2021-09-30T19:55:04.628Z] : [success]: Bot finished successfully, total execution time: 24s 456ms
+
+[2021-09-30T19:55:04.630Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:55:13.130Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:55:13.210Z] : [success]: Bot started
+
+[2021-09-30T19:55:13.211Z] : [info]: Robot start
+
+[2021-09-30T19:55:20.064Z] : [info]: someone is there
+
+[2021-09-30T19:55:28.511Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T19:55:28.515Z] : [error]: Total execution time: 15s 300ms
+
+[2021-09-30T19:55:28.517Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:56:37.343Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:56:37.380Z] : [success]: Bot started
+
+[2021-09-30T19:56:37.381Z] : [info]: Robot start
+
+[2021-09-30T19:56:44.540Z] : [info]: someone is there
+
+[2021-09-30T19:56:58.453Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-30T19:56:59.321Z] : [info]: 674 235
+
+[2021-09-30T19:57:01.795Z] : [success]: Bot finished successfully, total execution time: 24s 409ms
+
+[2021-09-30T19:57:01.799Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:57:14.644Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:57:14.711Z] : [success]: Bot started
+
+[2021-09-30T19:57:14.712Z] : [info]: Robot start
+
+[2021-09-30T19:57:21.434Z] : [info]: someone is there
+
+[2021-09-30T19:57:29.814Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T19:57:29.820Z] : [error]: Total execution time: 15s 100ms
+
+[2021-09-30T19:57:29.821Z] : [info]: ---------------------------------------------
+
+[2021-09-30T19:59:31.437Z] : [success]: Robot saved successfully
+
+[2021-09-30T19:59:31.493Z] : [success]: Bot started
+
+[2021-09-30T19:59:31.494Z] : [info]: Robot start
+
+[2021-09-30T19:59:50.154Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-30T19:59:50.994Z] : [info]: 674 235
+
+[2021-09-30T19:59:52.550Z] : [success]: Bot finished successfully, total execution time: 21s 52ms
+
+[2021-09-30T19:59:52.564Z] : [info]: ---------------------------------------------
+
+[2021-09-30T20:00:14.794Z] : [success]: Robot saved successfully
+
+[2021-09-30T20:00:14.844Z] : [success]: Bot started
+
+[2021-09-30T20:00:14.845Z] : [info]: Robot start
+
+[2021-09-30T20:00:21.445Z] : [info]: someone is there
+
+[2021-09-30T20:00:31.462Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T20:00:31.468Z] : [error]: Total execution time: 16s 614ms
+
+[2021-09-30T20:00:31.469Z] : [info]: ---------------------------------------------
+
+[2021-09-30T20:06:45.619Z] : [success]: Robot saved successfully
+
+[2021-09-30T20:06:45.680Z] : [success]: Bot started
+
+[2021-09-30T20:06:45.681Z] : [info]: Robot start
+
+[2021-09-30T20:06:52.896Z] : [info]: someone is there
+
+[2021-09-30T20:07:10.045Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-30T20:07:10.976Z] : [info]: 674 235
+
+[2021-09-30T20:07:12.622Z] : [success]: Bot finished successfully, total execution time: 26s 936ms
+
+[2021-09-30T20:07:12.624Z] : [info]: ---------------------------------------------
+
+[2021-09-30T20:07:23.975Z] : [success]: Robot saved successfully
+
+[2021-09-30T20:07:24.046Z] : [success]: Bot started
+
+[2021-09-30T20:07:24.047Z] : [info]: Robot start
+
+[2021-09-30T20:07:30.711Z] : [info]: someone is there
+
+[2021-09-30T20:07:48.225Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-30T20:07:49.065Z] : [info]: 674 235
+
+[2021-09-30T20:07:51.496Z] : [success]: Bot finished successfully, total execution time: 27s 447ms
+
+[2021-09-30T20:07:51.498Z] : [info]: ---------------------------------------------
+
+[2021-09-30T20:32:36.369Z] : [success]: Robot saved successfully
+
+[2021-09-30T20:32:36.437Z] : [success]: Bot started
+
+[2021-09-30T20:32:36.438Z] : [info]: Robot start
+
+[2021-09-30T20:32:43.440Z] : [info]: someone is there
+
+[2021-09-30T20:32:49.440Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T20:32:49.445Z] : [error]: Total execution time: 13s 1ms
+
+[2021-09-30T20:32:49.447Z] : [info]: ---------------------------------------------
+
+[2021-09-30T20:33:35.826Z] : [success]: Robot saved successfully
+
+[2021-09-30T20:33:35.887Z] : [success]: Bot started
+
+[2021-09-30T20:33:35.888Z] : [info]: Robot start
+
+[2021-09-30T20:33:42.578Z] : [info]: someone is there
+
+[2021-09-30T20:34:00.328Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-30T20:34:01.266Z] : [info]: 674 235
+
+[2021-09-30T20:34:03.695Z] : [success]: Bot finished successfully, total execution time: 27s 804ms
+
+[2021-09-30T20:34:03.697Z] : [info]: ---------------------------------------------
+
+[2021-09-30T20:34:13.244Z] : [success]: Robot saved successfully
+
+[2021-09-30T20:34:13.297Z] : [success]: Bot started
+
+[2021-09-30T20:34:13.298Z] : [info]: Robot start
+
+[2021-09-30T20:34:20.158Z] : [info]: someone is there
+
+[2021-09-30T20:34:26.480Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T20:34:26.483Z] : [error]: Total execution time: 13s 180ms
+
+[2021-09-30T20:34:26.484Z] : [info]: ---------------------------------------------
+
+[2021-09-30T20:35:07.134Z] : [success]: Robot saved successfully
+
+[2021-09-30T20:35:07.195Z] : [success]: Bot started
+
+[2021-09-30T20:35:07.196Z] : [info]: Robot start
+
+[2021-09-30T20:35:14.154Z] : [info]: someone is there
+
+[2021-09-30T20:35:31.398Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-30T20:35:32.257Z] : [info]: 674 235
+
+[2021-09-30T20:35:33.534Z] : [success]: Bot finished successfully, total execution time: 26s 335ms
+
+[2021-09-30T20:35:33.535Z] : [info]: ---------------------------------------------
+
+[2021-09-30T20:35:42.359Z] : [success]: Robot saved successfully
+
+[2021-09-30T20:35:42.418Z] : [success]: Bot started
+
+[2021-09-30T20:35:42.419Z] : [info]: Robot start
+
+[2021-09-30T20:35:51.887Z] : [info]: someone is there
+
+[2021-09-30T20:36:09.114Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-30T20:36:10.007Z] : [info]: 674 235
+
+[2021-09-30T20:36:11.495Z] : [success]: Bot finished successfully, total execution time: 29s 72ms
+
+[2021-09-30T20:36:11.497Z] : [info]: ---------------------------------------------
+
+[2021-09-30T20:36:40.195Z] : [success]: Robot saved successfully
+
+[2021-09-30T20:36:40.253Z] : [success]: Bot started
+
+[2021-09-30T20:36:40.254Z] : [info]: Robot start
+
+[2021-09-30T20:36:59.179Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-30T20:37:00.054Z] : [info]: 674 235
+
+[2021-09-30T20:37:01.527Z] : [success]: Bot finished successfully, total execution time: 21s 271ms
+
+[2021-09-30T20:37:01.529Z] : [info]: ---------------------------------------------
+
+[2021-09-30T20:37:11.738Z] : [success]: Robot saved successfully
+
+[2021-09-30T20:37:11.799Z] : [success]: Bot started
+
+[2021-09-30T20:37:11.800Z] : [info]: Robot start
+
+[2021-09-30T20:37:18.374Z] : [info]: someone is there
+
+[2021-09-30T20:37:36.310Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-30T20:37:37.277Z] : [info]: 674 235
+
+[2021-09-30T20:37:39.037Z] : [success]: Bot finished successfully, total execution time: 27s 232ms
+
+[2021-09-30T20:37:39.039Z] : [info]: ---------------------------------------------
+
+[2021-09-30T20:38:19.468Z] : [success]: Robot saved successfully
+
+[2021-09-30T20:38:19.531Z] : [success]: Bot started
+
+[2021-09-30T20:38:19.532Z] : [info]: Robot start
+
+[2021-09-30T20:38:26.158Z] : [info]: someone is there
+
+[2021-09-30T20:38:43.713Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-30T20:38:44.615Z] : [info]: 674 235
+
+[2021-09-30T20:38:46.806Z] : [success]: Bot finished successfully, total execution time: 27s 182ms
+
+[2021-09-30T20:38:46.810Z] : [info]: ---------------------------------------------
+
+[2021-09-30T20:41:08.503Z] : [success]: Robot saved successfully
+
+[2021-09-30T20:41:08.596Z] : [success]: Bot started
+
+[2021-09-30T20:41:08.597Z] : [info]: Robot start
+
+[2021-09-30T20:41:15.466Z] : [info]: someone is there
+
+[2021-09-30T20:41:33.088Z] : [info]: Comiensa el trabajo 1
+
+[2021-09-30T20:41:33.992Z] : [info]: 674 235
+
+[2021-09-30T20:41:36.903Z] : [success]: Bot finished successfully, total execution time: 28s 299ms
+
+[2021-09-30T20:41:36.906Z] : [info]: ---------------------------------------------
+
+[2021-09-30T21:13:26.665Z] : [success]: Robot saved successfully
+
+[2021-09-30T21:13:26.747Z] : [success]: Bot started
+
+[2021-09-30T21:13:26.748Z] : [info]: Robot start
+
+[2021-09-30T21:13:33.897Z] : [info]: someone is there
+
+[2021-09-30T21:13:51.378Z] : [info]: END Loguin
+
+[2021-09-30T21:13:54.401Z] : [info]: END search
+
+[2021-09-30T21:14:15.469Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T21:14:15.472Z] : [error]: Total execution time: 48s 720ms
+
+[2021-09-30T21:14:15.473Z] : [info]: ---------------------------------------------
+
+[2021-09-30T21:19:39.492Z] : [success]: Robot saved successfully
+
+[2021-09-30T21:19:39.562Z] : [success]: Bot started
+
+[2021-09-30T21:19:39.563Z] : [info]: Robot start
+
+[2021-09-30T21:20:26.755Z] : [info]: someone is there
+
+[2021-09-30T21:20:44.581Z] : [info]: END Loguin
+
+[2021-09-30T21:20:47.525Z] : [info]: END search
+
+[2021-09-30T21:21:12.503Z] : [success]: Bot finished successfully, total execution time: 1m 32s 937ms
+
+[2021-09-30T21:21:12.504Z] : [info]: ---------------------------------------------
+
+[2021-09-30T21:22:10.791Z] : [success]: Robot saved successfully
+
+[2021-09-30T21:22:10.839Z] : [success]: Bot started
+
+[2021-09-30T21:22:10.840Z] : [info]: Robot start
+
+[2021-09-30T21:22:57.800Z] : [info]: someone is there
+
+[2021-09-30T21:23:15.567Z] : [info]: END Loguin
+
+[2021-09-30T21:23:18.732Z] : [info]: END search
+
+[2021-09-30T21:23:43.480Z] : [success]: Bot finished successfully, total execution time: 1m 32s 638ms
+
+[2021-09-30T21:23:43.482Z] : [info]: ---------------------------------------------
+
+[2021-09-30T21:46:12.967Z] : [success]: Robot saved successfully
+
+[2021-09-30T21:46:13.030Z] : [success]: Bot started
+
+[2021-09-30T21:46:13.031Z] : [info]: Robot start
+
+[2021-09-30T21:47:06.500Z] : [error]: Selectors: Nothing found
+
+[2021-09-30T21:47:06.505Z] : [error]: Total execution time: 53s 468ms
+
+[2021-09-30T21:47:06.508Z] : [info]: ---------------------------------------------
+
+[2021-09-30T21:48:13.034Z] : [success]: Robot saved successfully
+
+[2021-09-30T21:48:13.103Z] : [success]: Bot started
+
+[2021-09-30T21:48:13.104Z] : [info]: Robot start
+
+[2021-09-30T21:48:59.866Z] : [error]: Script Stopped.
+
+[2021-09-30T21:48:59.870Z] : [warn]: Total execution time: 46s 762ms
+
+[2021-09-30T21:48:59.871Z] : [info]: ---------------------------------------------
+
+[2021-09-30T21:49:29.703Z] : [success]: Robot saved successfully
+

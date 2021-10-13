@@ -1,0 +1,4 @@
+for (let i = 0, n = presentationLetter.length; i < n; ++i) {
+    
+  presentationLetter.push(String(inputValues[i]));
+}

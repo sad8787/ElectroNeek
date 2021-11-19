@@ -1,0 +1,31 @@
+
+  ==========================================
+  Studio Pro version: 6.5.4
+  Started at: 18/11/2021 11:39:34
+  ==========================================
+  
+
+[2021-11-18T08:41:26.711Z] : [info]: ---------------------------------------------
+
+[2021-11-18T08:41:26.732Z] : [success]: Bot started
+
+[2021-11-18T08:41:26.733Z] : [info]: Robot start
+
+[2021-11-18T08:41:35.502Z] : [error]: Terminal: Se produjo una excepción en el inicializador de tipo de 'ElectroneekWinAgent.SelectorsApi.Controllers.TerminalController'.
+
+[2021-11-18T08:41:35.520Z] : [error]: Total execution time: 8s 768ms
+
+[2021-11-18T08:41:35.521Z] : [info]: ---------------------------------------------
+
+[2021-11-18T08:42:07.614Z] : [success]: Bot started
+
+[2021-11-18T08:42:07.615Z] : [info]: Robot start
+
+[2021-11-18T08:42:09.764Z] : [error]: Terminal: Se produjo una excepción en el inicializador de tipo de 'ElectroneekWinAgent.SelectorsApi.Controllers.TerminalController'.
+
+[2021-11-18T08:42:09.768Z] : [error]: Total execution time: 2s 149ms
+
+[2021-11-18T08:42:09.769Z] : [info]: ---------------------------------------------
+
+[2021-11-18T08:48:21.981Z] : [success]: Robot saved successfully
+
